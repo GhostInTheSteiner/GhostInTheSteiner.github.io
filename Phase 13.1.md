@@ -27,6 +27,8 @@ The stress and tension eased up, as my body was finally able to find some rest.
 
 I already felt unable to do so much as stand right after the battle. However now — after just another event that used up the last bit of my energy... After all those people who kept talking, and kept congratulating me. After all this, it was already a difficult task trying to breath, let alone to speak.
 
+<div class="story-image"><img src="images/IBG001D.PNG"></div>
+
 I didn't exactly keep track of time, but it felt like hours before I managed to escape the crowd. I said 'escape', however... In reality, I don't think I did. I probably went more with the flow than anything else.
 
 Fortunately Super GunBuild-1 took over most of the attention at some point, giving me a good opportunity to sneak away. And so, I found myself at this old airport hangar — the very same place where it all began.
