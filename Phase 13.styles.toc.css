@@ -1,0 +1,74 @@
+body  {
+	background-image: url('TOC.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position-x: center;
+}
+
+.toc-title {
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 2vh;
+	margin-bottom: 5vh;
+}
+
+.toc-key:after { 
+    clip: rect(0px, 190px, 20px, 0px);
+    content: " ............................................................ ";
+    /* position: absolute; */
+	/* z-index: -1; */
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.toc li {
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.toc li .title {
+	order: 1;
+}
+
+.toc li .chapter {
+	order: 3;
+}
+
+.toc li::after {
+	background-image: radial-gradient(circle, currentcolor 1px, transparent 1.5px);
+	background-position: bottom;
+	background-size: 1ex 4.5px;
+	background-repeat: space no-repeat;
+	content: "";
+	flex-grow: 1;
+	height: 1em;
+	order: 2;
+}
+
+.toc-container {
+	padding-left: var(--story-padding);
+	padding-right: var(--story-padding);
+	padding-top: 5vh;
+}
+
+.toc {
+	/* background-color: black;
+	padding: 0px !important;
+	left: 0px !important; */
+	margin-top: 50px;
+	font-size: 2em;
+    /* border: 1px solid #000; */
+	width: 90%;
+	padding-left: 20px;
+	padding-right: 70px;
+	margin-bottom: 50px;
+}
+
+a:link, a:visited {
+	color: #3794FF;
+  }
+  
+a:hover, a:active {
+	color: #3794FF;
+}

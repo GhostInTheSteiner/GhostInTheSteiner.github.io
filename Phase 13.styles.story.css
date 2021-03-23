@@ -1,0 +1,80 @@
+:root {
+    --story-max-width: 1000px;
+    --story-padding: 24px;
+    --story-text-zoom: 1.2;
+    --story-text-size: 2.2em;
+    --story-text-size-applied: calc(var(--story-text-size) * var(--story-text-zoom));
+    --story-image-blur-radius: 20px;
+    --story-image-spread-radius: 20px;
+    --story-image-margin-left: -15px;
+    --story-image-zoom: 1.03;
+}
+
+.story-background {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background-image: url('images/EV_MIS005B.PNG'); */
+    background-position: left;
+    /* background-attachment: fixed;  */
+    width: 100%;
+    min-height: 720px;
+    /* background-position-x: -250px; */
+    background-position-x: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+}
+
+/* hr.new {
+    border-top: #fdfdfd !important
+} */
+
+.story-text {
+	margin: auto;
+    max-width: var(--story-max-width);
+    /* width: 100%; */
+    display: block;
+    margin-bottom: 18px;
+    margin-top: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.story-chapter {
+	padding-left: var(--story-padding);
+    padding-right: var(--story-padding);
+    padding-bottom: 1px;
+    padding-top: 20px;
+}
+
+.story-chapter-text {
+    font-size: var(--story-text-size-applied)
+}
+
+.story-chapter-phase {
+	padding-left: var(--story-padding);
+    padding-right: var(--story-padding);
+}
+
+.story-image {
+    display:block;
+    position:relative;
+    margin-left: var(--story-image-margin-left);
+    width: calc(100%*var(--story-image-zoom))
+}
+
+.story-image:before {
+    display:block;
+    content:'';
+    position:absolute;
+    width:100%;
+    height:100%;
+    -moz-box-shadow:inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) rgb(0, 0, 0);
+    -webkit-box-shadow:inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) rgb(0, 0, 0);
+    box-shadow:inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) rgb(0, 0, 0);
+}
