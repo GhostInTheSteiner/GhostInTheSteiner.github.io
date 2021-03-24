@@ -3,10 +3,6 @@
     --margin-text-quoted: 28px;
 }
 
-.center {
-	text-align: center;
-}
-
 /* REDO */
 .text-centered {
 
@@ -30,4 +26,9 @@
     margin-left: 10px;
     margin-top: var(--margin-text-italic);
     margin-bottom: var(--margin-text-italic);
+}
+
+/*Necessary to avoid text size adjustments by Chrome based mobile browsers*/
+p, .text-italic, .text-quoted, .text-centered, div {
+    max-height: 999999px;
 }
