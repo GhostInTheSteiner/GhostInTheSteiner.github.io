@@ -19,6 +19,8 @@
 
 <div class="story-chapter-text">
 
+<div class="story-image"><img src="images/runway.png"></div>
+
 I stood at the empty airport apron. The hustle and bustle of a few days ago completely vanished, leaving behind a silent and peaceful atmosphere. Somewhere in the distance I could hear the leaves of trees rustling in the cold morning winds.
 
 Right after leaving Frau's room I decided to come here. To the place that should become my last opportunity to spend time Misa-nee. At least... for a while to come.
@@ -98,6 +100,8 @@ As I spoke those words... I felt how my fingertip touched the icon. And right th
 
 Nine years ago, on one of those days... We were sitting on a bench in Uchugaoka Park, a mass of people around us. All of them eagerly waiting, following the countdown voice from the speakers.
 
+<div class="story-image"><img src="images/IBG001D.png"></div>
+
 And just like back then... as the white fountain of smoke shot up in front of us, growing taller by the second. The words she would scream against the sky, straight in the direction of that man-made lump of metal. Right as it cut through the clouds—and rose up into the heavens.
 
 <div class="text-quoted">“Gooo, hot dog! Gooo!”</div>
@@ -129,7 +133,7 @@ What's more, is that the file is titled ***“Kimijima Report No. 0”***. Feels
 
 Kimijima Kou, the mastermind that appeared in <span class="twipo-handle-blue">@M_NAGAFUKADA</span>'s livestream just a week ago. The very person that was supposed to have been defeated and eliminated by the brave members of the ***“C.T. Robotics Club”***, who faced him in an heroic battle using their incredible ***“Super GunBuild-1”***.
 
-After the sudden appearance of yet another report file we might be tempted to believe he has returned. However, dear readers, before you gasp in shock: Please take a look at the report's contents. They weren't written by Kimijima Kou himself. Rather—and now hold your breath—they origin from noone else than the overly popular face of Exoskeleton Company: ***Miss Senomiya Misaki***.
+After the sudden appearance of yet another report file we might be tempted to believe he has returned. However, dear readers, before you gasp in shock: Please take a look at the report's contents. They weren't written by Kimijima Kou himself. Rather—and now hold your breath—they origin from the overly popular face of Exoskeleton Company: ***Miss Senomiya Misaki***.
 
 That's right. After all this, she seems to have left behind one last message. Memoirs that all of us should learn about, and that could very well flip the image of her upside down in your head!
 
@@ -364,7 +368,7 @@ Japanese people reading English localizations... Just what world do we live in? 
 <div class="story-chapter-fadeout story-chapter-fade"></div>
 
 
-#####—FIN —
+##### —FIN —
 <div class="h5">「 Thanks for reading! 」</div>
 
 </div>

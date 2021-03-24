@@ -31,7 +31,7 @@ That's why... in this very moment, with their goal right in front—they finally
 
 <div class="text-quoted">“You've seen Super GunBuild-1, right? I know, we made lots of changes to your initial design, but at its core it's still the same... Besides, did you read my messages? I sent you a picture of GunBuild-1...”</div>
 
-That's right. Back then, during last year's summer... as we completed Misa-nee's robot for the very first time. Akiho's enthusiasm kept going strong as she was eagerly awaiting the day of our first test run. Upon sending out her message, she was certainly hoping for a reply.
+That's right. Back then, during last year's summer... as we completed Misa-nee's robot for the very first time. I still know how Akiho's enthusiasm kept going strong as she was awaiting the day of our first test run. Upon sending out her message, she was certainly hoping for a reply.
 
 After all—the unwavering ambitions she harboured, and the incredible efforts she made. All of them sparked from a single person. A person, who seemed entirely out of reach at the time.
 
@@ -39,29 +39,29 @@ After all—the unwavering ambitions she harboured, and the incredible efforts s
 
 <div class="text-quoted">“...Aki.”</div>
 
-A faint whisper cut her off, putting an end to Akiho's mindless anecdote about GunBuild-1. The increasing excitement on her face suddenly vanished, then slowly became replaced by an expression of growing anxiety.
+A faint whisper cut her off, putting an end to Akiho's mindless anecdote about GunBuild-1. The increasing excitement on her face vanished, and became replaced by an expression of growing anxiety.
 
 <div class="text-quoted">“...no matter... what you do...”</div>
 
-Seemingly struggling to keep talking, and still caught up by the numbness from her comatose state.
+Still caught up by the numbness from her comatose state, she was clearly struggling to keep talking.
 
 <div class="text-quoted">“...even... after all this...”</div>
 
-Misa-nee's voice was stumbling, her libs visibly trembling as she spoke. It became obvious just how much strength uttering those words required.
+Misa-nee's voice was stumbling, her libs visibly trembling as she spoke. It became obvious just how much strength uttering those words required. Words—that felt strangely familiar. As if triggered by them, memories from seven years ago came flooding back... and reaffirmed a trait, that seemed long forgotten.
 
-<div class="text-quoted">“...even... after all this. No matter... what you do...”</div>
-
-Stabbing words, that felt strangely familiar. As if conjuring the past, they seemed to wake old demons from seven years ago. Caught by their inevitable spell, what should finally leave Misa-nee's mouth was—
+<!-- Confirming my own thoughts, what should finally leave Misa-nee's mouth was— -->
 
 <div class="text-quoted">“...average.”</div>
 
-Upon hearing that word, Akiho let out an audible gasp...
+Upon hearing that word, Akiho let out an audible gasp.
 
 <div class="text-quoted">“...you've only... ever been average.”</div>
 
 Struck speechless, both of us stared into Misa-nee's eyes. Absolute disbelief painted on our faces.
 
 <div class="text-italic">Just like back then...</div>
+
+<div class="story-image"><img src="images/EV_MIS005B.PNG"></div>
 
 Of course, Akiho told me. About what happened on the day her sister left for Tokyo. Ever since then I knew—I knew, just what caused that huge sister complex of hers. And what fuelled her desire to finish GunBuild-1 more than anything.
 

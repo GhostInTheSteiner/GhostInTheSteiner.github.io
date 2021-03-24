@@ -75,6 +75,8 @@ Misa-nee went on. Her eyes still cloudy, her gaze a blank stare resting on some 
 
 Right after... a piercingly loud screeching noise broke the silence. Seemingly omnipresent, it echoed throughout the entire hangar. It wasn't before a few seconds passed that I realized the roller shutters began to open. The bright daylight made me lose my sight for a moment.
 
+<div class="story-image"><img src="images/hangar.png"></div>
+
 <div class="text-quoted">“...what little I could do, ...”</div>
 
 After reflexively closing my eyes, Misa-nee's fading voice resounded somewhere in my head. While I couldn't see what happened, I didn't miss the sudden presence of several persons. Rapidly moving feets, precisely spoken orders... Out of nowhere, all of this seemed to surround the both of us.
@@ -95,7 +97,7 @@ As the paramedics began to carry her out of the hangar, right before leaving me 
 
 And despite the short moment she remained in my ears reach. Despite her cryptic words turning into a fading whisper. The final words she spoke, shaping the last pieces of her enigmatic past. I clearly understood them all.
 
-My eyes kept following her. Through the hangar's enormous gates, right out into into a giant crowd of people. One that kept on laughing, and kept on cheering.
+My eyes kept following her. Through the hangar's enormous gates, right out into a giant crowd of people. One that kept on laughing, and kept on cheering.
 
 And amongst it... countless children, gazing up to the crystallization of our blood and tears. Overwhelmed by the manifestation of our hopes and dreams. Even Doc, who stood right next to his crane, carried a warm smile on his face.
 
@@ -115,7 +117,11 @@ I watched as Misa-nee was taken through the crowd. As she crossed GunBuild-1's g
 
 Akiho, apparently interviewed by policemen, seemed as if she wanted to turn around and sprint right off to her sister. Her mouth opened, probably shouting out. Perhaps in a desperate attempt to leave one last message, or to send out one final goodbye...
 
-Then, as if to reply... High up in the sky, the sun came out from beneath the orange-colored clouds. Bathed by its golden shades of light, Super GunBuild-1's posture almost felt reminiscent of an heroic warrior. An exhausted veteran, marked by a deep scar running from his shoulder down to his waist.
+Then, as if to reply... 
+
+<div class="story-image story-image-small"><img src="images/RN22_355e.png"></div>
+
+High up in the sky, the sun came out from beneath the orange-colored clouds. Bathed by its golden shades of light, Super GunBuild-1's posture almost felt reminiscent of an heroic warrior. An exhausted veteran, marked by a deep scar running from his shoulder down to his waist.
 
 And just in this moment, right before Misa-nee was taken into the ambulance. Whether it were Akiho's words that reached her, or GunBuild's image that affected her. For some reason—a wistful smile appeared on her libs, and a peaceful expression formed on her face.
 

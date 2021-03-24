@@ -19,6 +19,8 @@
 
 <div class="story-chapter-text">
 
+<div class="story-image"><img src="images/rain.png"></div>
+
 Pouring rain and a strong sea breeze were in the air. During the winter, the winds were always blowing strong over Tanegashima's rural grounds. The air temperature didn't drop much, but due to the strong gusts it felt quite cold... Especially here, on the southern coast.
 
 <div class="text-quoted">“Sister Centipede, you know Kai and Aki, right?”</div>
@@ -72,8 +74,9 @@ The part of my soul that's left.</div>
 *****
 &nbsp;
 
-
 As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.
+
+<div class="story-image"><img src="images/frau.png"></div>
 
 And right in front of that gate to a second world sat a figure, that didn't even bother to turn around. Intently staring at some kind of code displayed on the screen in front of her. Frau Koujiro—the genius programmer and maintainer of the massively successful online game Kill-Ballad. As I was gazing on her back, I heard how a single word left her mouth...
 
@@ -126,6 +129,8 @@ Unsure what she meant by it, I repeated her words of just now.
 <div class="text-quoted">“The Irei General Store.”</div>
 
 Both of us fell silent. Not saying a word, avoiding each other's gaze. Even though Frau had barely known Mizuka-san, she was still being considerate—something, I was deeply thankful for.
+
+<div class="story-image"><img src="images/store.png"></div>
 
 I haven't actually been to Mizuka-san's place ever since. I heard her Mom had been taking over the store after that incident, as she was already helping out every now and then. But of course... that wouldn't be a permanent solution.
 
@@ -351,11 +356,15 @@ I didn't receive a reply. Instead, I heard a notification sound from my own Poke
 
 A ridiculously long amount of characters were part of the filename, apparently indicating the version. However, in front of them all, I could still see the document's original title.
 
-<div class="text-quoted">“That file is e-everything you need.”</div>
+<div class="text-quoted">“That file is e-everything you need. B-Basically, you just need to open it. That's all...”</div>
+
+
+
+<!-- <div class="text-quoted">“B-Basically, you j-just need to open it. That's all...”</div> -->
+
+<div class="story-image"><img src="images/cape.png"></div>
 
 Back then, on that very day. After leaving the airport I payed Mizuka-san's place of death one last visit. Yet... it wasn't her that I came there for.
-
-<div class="text-quoted">“B-Basically, you j-just need to open it. That's all...”</div>
 
 After hearing Misa-nee's very last words, my body almost dragged me out there on its own. As I was looking for Kimijima Report No. 7, I only checked the area around the shrine. However, on the southern side, placed right at the cliff—I found another geotag.
 

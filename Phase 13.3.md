@@ -41,6 +41,8 @@ Yet, that's exactly why...
 
 I confirmed it once again—purging doubt from my words, and blocking each chance to escape. Eventually driving Akiho into a corner, pressuring for an answer. Thus, as a result...
 
+<div class="story-image"><img src="images/EV_AKI022A.PNG"></div>
+
 She gave up.
 
 Ultimately giving in to the words she heard, and accepting the feelings she held. Just this once, for the very first time in our lifes—our unspoken desires should meet each other.
@@ -68,6 +70,8 @@ Misa-nee would undoubtedly be judged guilty by the mass-media. What's more... th
 And probably most of all: We were right before graduation. By pursuing our future career paths we would likely end up leaving for different mainland universities. Of course, one of us might also join the working force right away. Eventually remaining on Tanegashima's grounds, leaving an endless ocean in-between—and inevitably separating the two of us all the more.
 
 Amongst all of that, would we really take our relationship anywhere? Even thinking about my own feelings... Without knowing what the future held in store I felt reluctant to blindly pursue them. Both, for mine and for Akiho's sake.
+
+&nbsp;
 
 Right then—a series of loud beeping sounds brought me back to reality. Resounding throughout the entire hangar, they put an end to the illusion the two of us have been caught up in.
 
@@ -125,6 +129,8 @@ Cold shivers went down my spine. Even now, the memory was still present. Vivid, 
 
 <div class="text-quoted">“Misa-nee. There is something... I need to tell you. A message by a dear friend of yours.”</div>
 
+<div class="story-image"><img src="images/EV_IRE005B.png"></div>
+
 The pain-filled eyes, that forced smile. And that moment, as 'she' ultimately succumbed. Will broken, resistance beaten. Eventually giving herself away to 'her' fate.
 
 <div class="text-quoted">“Thank you... for the HUG.”</div>
@@ -149,6 +155,8 @@ That's why... certainly, Misa-nee was a weird girl. Back when we were kids, we m
 
 Before the Robotics Club came into existence, before Mizuka-san and Mitchie became part of her life—I couldn't recall any. She started off all by herself, enduring mockery and ridicule ever since. Up until this point, just what kind of person have you been, Misa-nee?
 
+<div class="story-image"><img src="images/EV_MIS006A.png"></div>
+
 <div class="text-quoted">“...the people I met.”</div>
 
 Lost in thoughts, I murmured her strange words from just now...
@@ -160,6 +168,8 @@ It happened around that time. The days and weeks before the Robotics Club was bo
 Whenever I visited Akiho's place, whenever I hang out with her. I felt like the days when Misa-nee was missing gradually increased. Each time we asked—she would just smile wistfully, a distant look in her eyes.
 
 Where she went, whom she visited and why she did so—she never revealed any of it. In the end, whatever it was... remained in the dark, shrouded in mystery.
+
+<div class="story-image"><img src="images/kouhouse.png"></div>
 
 It wasn't before seven full years passed that I should learn about her relation to Kimijima Kou. The mastermind behind the Human Domestication Project—an inhuman attempt at reducing the world population to one billion people.
 

@@ -6,8 +6,9 @@
     --story-text-size-applied: calc(var(--story-text-size) * var(--story-text-zoom));
     --story-image-blur-radius: 20px;
     --story-image-spread-radius: 20px;
-    --story-image-margin-left: -15px;
-    --story-image-zoom: 1.03;
+    --story-image-margin-left: -10px;
+    --story-image-margin-vertical: 30px;
+    --story-image-zoom: 1.025;
 }
 
 .story-background {
@@ -65,6 +66,8 @@
     display:block;
     position:relative;
     margin-left: var(--story-image-margin-left);
+    margin-top: var(--story-image-margin-vertical);
+    margin-bottom: var(--story-image-margin-vertical);
     width: calc(100%*var(--story-image-zoom))
 }
 
@@ -77,4 +80,10 @@
     -moz-box-shadow:inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) rgb(0, 0, 0);
     -webkit-box-shadow:inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) rgb(0, 0, 0);
     box-shadow:inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) rgb(0, 0, 0);
+}
+
+.story-image-small {
+    width:75%;
+    height:75%;
+    margin-left: 85px;
 }

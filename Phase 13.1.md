@@ -19,15 +19,15 @@
 
 <div class="story-chapter-text">
 
-The bustling atmosphere along with its vibrant laughter, lots of cheers and uncountable congratulations started to gradually fade out. The moment the hangar's giant roller shutters reached the ground, thousands of voices were reduced to a quiet mumble.
+<div class="story-image"><img src="images/EV_ZZZ017A.png"></div>
+
+The bustling atmosphere along with its vibrant laughter, lots of cheers and countless congratulations started to gradually fade out. The moment the hangar's giant roller shutters reached the ground, thousands of voices were reduced to a quiet mumble.
 
 <div class="text-italic">Pleasant. And comforting.</div>
 
 The stress and tension eased up, as my body was finally able to find some rest.
 
 I already felt unable to do so much as stand right after the battle. However now—after just another event that used up the last bit of my energy... After all those people who kept talking, and kept congratulating me. After all this, it was already a difficult task trying to breath, let alone to speak.
-
-<div class="story-image"><img src="images/IBG001D.PNG"></div>
 
 I didn't exactly keep track of time, but it felt like hours before I managed to escape the crowd. I said 'escape', however... In reality, I don't think I did. I probably went more with the flow than anything else.
 
@@ -56,6 +56,8 @@ The girl whose dreams—unreachable as they may have been—finally became true.
 And at the same time, the girl who chose to become the enemy of the entire world. In exchange for her dreams and hopes, in order to protect what she cherished most of all: A mere two children, who long since became an important part of her life.
 
 I closed the distance to Misa-nee and sat down on the other side of her enfeebled body, right in front of Akiho. Misa-nee was still covered by the bodysuit she wore while piloting KAMINAGI. Even now, she appeared to be unconscious—only her breast moved to the rhythm of her breathing.
+
+<div class="story-image"><img src="images/EV_MIS020D1_2.png"></div>
 
 <div class="text-quoted">“She hasn't woken up yet, has she?”</div>
 
