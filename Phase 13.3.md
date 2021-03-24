@@ -25,7 +25,7 @@ The old airport's runway. A chilly morning wind was blowing over the terrain, ca
 
 Upon hearing my request, it felt like Akiho was lost in thought... Like she heard the words, but hasn't realized their meaning yet.
 
-“Aki-chan?”, I asked, in an effort to bring her back to reality.
+<div class="text-quoted-inline">“Aki-chan?”</div>, I asked, in an effort to bring her back to reality.
 
 <div class="text-quoted">“Oh, ah! With me...? Are you sure...?”</div>
 
@@ -39,17 +39,17 @@ Yet, that's exactly why...
 
 <div class="text-quoted">“It has to be you, Aki-chan.”</div>
 
-I confirmed it once again — purging doubt from my words, and blocking each chance to escape. Eventually driving Akiho into a corner, pressuring for an answer. Thus, as a result...
+I confirmed it once again—purging doubt from my words, and blocking each chance to escape. Eventually driving Akiho into a corner, pressuring for an answer. Thus, as a result...
 
 She gave up.
 
-Ultimately giving in to the words she heard, and accepting the feelings she held. Just this once, for the very first time in our lifes — our unspoken desires should meet each other.
+Ultimately giving in to the words she heard, and accepting the feelings she held. Just this once, for the very first time in our lifes—our unspoken desires should meet each other.
 
 &nbsp;
 *****
 &nbsp;
 
-<div class="text-italic">*“Have you ever been blessed by any of it?”*</div>
+<div class="text-italic">“Have you ever been blessed by any of it?”</div>
 
 Certainly, I kept playing it cool. Casual enough that it felt like our usual chitchat, yet careful enough to not let her get a read on me. Eventually following the unfortunate patterns Kill-Ballad brought upon me...
 
@@ -61,17 +61,17 @@ After all...
 
 Moving forward from this day drastic changes were bound to happen. Some of them we would experience both alike, while others entirely separate from each other.
 
-Our victory just now was public knowledge, ending the days when people were belittling the Robotics Club. In fact, just now — before I escaped the crowd — I received a lot of requests from total strangers. All interested, all asking if they could join. I was fairly certain we were about to witness an absolute run on the club.
+Our victory just now was public knowledge, ending the days when people were belittling the Robotics Club. In fact, just now—before I escaped the crowd—I received a lot of requests from total strangers. All interested, all asking if they could join. I was fairly certain we were about to witness an absolute run on the club.
 
 Misa-nee would undoubtedly be judged guilty by the mass-media. What's more... the chaos that happened at the Expo Arena in Odaiba and this final battle to prevent the launch of Black-1. We were directly involved in both of those events, presumably having to testify on the cases soon enough.
 
-And probably most of all: We were right before graduation. By pursuing our future career paths we would likely end up leaving for different mainland universities. Of course, one of us might also join the working force right away. Eventually remaining on Tanegashima's grounds, leaving an endless ocean in-between — and inevitably separating the two of us all the more.
+And probably most of all: We were right before graduation. By pursuing our future career paths we would likely end up leaving for different mainland universities. Of course, one of us might also join the working force right away. Eventually remaining on Tanegashima's grounds, leaving an endless ocean in-between—and inevitably separating the two of us all the more.
 
 Amongst all of that, would we really take our relationship anywhere? Even thinking about my own feelings... Without knowing what the future held in store I felt reluctant to blindly pursue them. Both, for mine and for Akiho's sake.
 
-Right then — a series of loud beeping sounds brought me back to reality. Resounding throughout the entire hangar, they put an end to the illusion the two of us have been caught up in.
+Right then—a series of loud beeping sounds brought me back to reality. Resounding throughout the entire hangar, they put an end to the illusion the two of us have been caught up in.
 
-“Oh, sorry... that's mine...", Akiho excused herself, pulling up her PokeCom. She then began to read something, probably a text message.
+<div class="text-quoted-inline">“Oh, sorry... that's mine..."</div>, Akiho excused herself, pulling up her PokeCom. She then began to read something, probably a text message.
 
 As she looked up again, her face took on a regretful look.
 
@@ -91,7 +91,7 @@ Her eyes carried a gloomy look as she spoke, and her voice seemed to be on the v
 
 <div class="text-quoted">“...that's impossible.”</div>
 
-As that feeble whisper reached my ears, I realized her gaze was directed downwards — resting somewhere on the bleak concrete behind Misa-nee's body.
+As that feeble whisper reached my ears, I realized her gaze was directed downwards—resting somewhere on the bleak concrete behind Misa-nee's body.
 
 <div class="text-quoted">“...impossible? Why?”</div>
 
@@ -133,7 +133,7 @@ With this, I was finally fulfilling her last request.
 
 <div class="text-quoted">“It's thanks to this, that I was able to live a pretty normal life. For these last two years... ever since the accident.” </div>
 
-Mizuka-san's last words — eventually, they've found their way. Arriving at a person that should never be able to meet her again.
+Mizuka-san's last words—eventually, they've found their way. Arriving at a person that should never be able to meet her again.
 
 Upon hearing them...
 
@@ -143,44 +143,46 @@ Quoting Mizuka-san got me thinking. About ten years ago... About who Misa-nee us
 
 To me, she was that unbeatable wall I sought to overcome. A brutal opponent I challenged over and over again. The rival that should ultimately define my own self, and my own ambitions.
 
-To Akiho however — she must have been an idol. That absurd love for robots and the childlike chase for her dreams. All of it rubbed off on her, shaping the personality I knew all too well.
+To Akiho however—she must have been an idol. That absurd love for robots and the childlike chase for her dreams. All of it rubbed off on her, shaping the personality I knew all too well.
 
 That's why... certainly, Misa-nee was a weird girl. Back when we were kids, we might have been fine with it. However, the people at her age, the people in her class... Besides the two of us, just how many friends did she actually have?
 
-Before the Robotics Club came into existence, before Mizuka-san and Mitchie became part of her life – I couldn't recall any. She started off all by herself, enduring mockery and ridicule ever since. Up until this point, just what kind of person have you been, Misa-nee?
+Before the Robotics Club came into existence, before Mizuka-san and Mitchie became part of her life—I couldn't recall any. She started off all by herself, enduring mockery and ridicule ever since. Up until this point, just what kind of person have you been, Misa-nee?
 
-<div class="text-italic">*“...the people I met. Have they been written into my life...? Or were they meant for me...?”*</div>
+<div class="text-quoted">“...the people I met.”</div>
 
 Lost in thoughts, I murmured her strange words from just now...
 
-It happened around that time. The days and weeks before the Robotics Club was born – right before Misa-nee entered High School.
+<div class="text-quoted">“Have they been written into my life...? Or were they meant for me...?”</div>
 
-Whenever I visited Akiho's place, whenever I hang out with her. I felt like the days when Misa-nee was missing gradually increased. Each time we asked — she would just smile wistfully, a distant look in her eyes.
+It happened around that time. The days and weeks before the Robotics Club was born—right before Misa-nee entered High School.
 
-Where she went, whom she visited and why she did so — she never revealed any of it. In the end, whatever it was... remained in the dark, shrouded in mystery.
+Whenever I visited Akiho's place, whenever I hang out with her. I felt like the days when Misa-nee was missing gradually increased. Each time we asked—she would just smile wistfully, a distant look in her eyes.
 
-It wasn't before seven full years passed that I should learn about her relation to Kimijima Kou. The mastermind behind the Human Domestication Project — an inhuman attempt at reducing the world population to one billion people.
+Where she went, whom she visited and why she did so—she never revealed any of it. In the end, whatever it was... remained in the dark, shrouded in mystery.
 
-<div class="text-italic">*“Sometimes... ignorance is bliss...”*</div>
+It wasn't before seven full years passed that I should learn about her relation to Kimijima Kou. The mastermind behind the Human Domestication Project—an inhuman attempt at reducing the world population to one billion people.
+
+<div class="text-italic">“Sometimes... ignorance is bliss...”</div>
 
 Even Mizuka-san... the person closest to Misa-nee. Did she ever know? Has Misa-nee ever told her?
 
 I wasn't sure if I ever questioned it myself. Just what happened when Misa-nee wasn't around... After all, did I even care?
 
-A decade ago, being a mere child — I foolishly believed whatever I felt like. Whether she spent her time with classmates, her friends or anyone else... It didn't matter.
+A decade ago, being a mere child—I foolishly believed whatever I felt like. Whether she spent her time with classmates, her friends or anyone else... It didn't matter.
 
-Today, however... with the puzzle of Misa-nee's past right in front of me. Even with most of it assembled, even with its image almost obvious — even so, I felt the most important parts were still missing.
+Today, however... with the puzzle of Misa-nee's past right in front of me. Even with most of it assembled, even with its image almost obvious—even so, I felt the most important parts were still missing.
 
-<div class="text-italic">*“...the day of the solar eclipse. When it all began...”*</div>
+<div class="text-italic">“...the day of the solar eclipse. When it all began...”</div>
 
 Back then... one of those parts, whichever it was. It must have changed her. Irrevocably shaping another person. Ultimately causing hopes to flourish, and dreams to rise.
 
 That's why...
 
-<div class="text-italic">*Some day.*</div>
+<div class="text-italic">Some day.</div>
 
-<div class="text-italic">*Would I ever find it?*  </div>
-<div class="text-italic">*Would I ever understand?*</div>
+<div class="text-italic">Would I ever find it?<br>
+Would I ever understand?</div>
 
 </div>
 </div>

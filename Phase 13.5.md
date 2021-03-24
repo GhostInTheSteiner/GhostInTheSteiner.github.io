@@ -63,10 +63,10 @@ I removed the icon from my screen. And once I confirmed the data was gone, I bre
 
 In the end, would you be able to kill me? Such a thing would make me incredibly happy. Just... remember to pay this place one last visit. Because—
 
-<div class="text-italic">*What little of myself I kept.*  </div>
-<div class="text-italic">*The part of my soul that's left.*  </div>
+<div class="text-italic">What little of myself I kept.<br>
+The part of my soul that's left.</div>
 
-<div class="text-italic">*...it may have found a place to rest.*</div>
+<div class="text-italic">...it may have found a place to rest.</div>
 
 &nbsp;
 *****
@@ -75,7 +75,7 @@ In the end, would you be able to kill me? Such a thing would make me incredibly 
 
 As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.
 
-And right in front of that gate to a second world sat a figure, that didn't even bother to turn around. Intently staring at some kind of code displayed on the screen in front of her. Frau Koujiro — the genius programmer and maintainer of the massively successful online game Kill-Ballad. As I was gazing on her back, I heard how a single word left her mouth...
+And right in front of that gate to a second world sat a figure, that didn't even bother to turn around. Intently staring at some kind of code displayed on the screen in front of her. Frau Koujiro—the genius programmer and maintainer of the massively successful online game Kill-Ballad. As I was gazing on her back, I heard how a single word left her mouth...
 
 <div class="text-quoted">“Nullpo.”</div>
 
@@ -83,7 +83,7 @@ Still fixated on that code, not paying the slightest attention to what happened 
  
 <div class="text-quoted">“Huh... what?”</div>
 
-I let out my question, while putting the two bags I've been carrying to the ground — thankful for an opportunity to finally let go of the heavy weight.
+I let out my question, while putting the two bags I've been carrying to the ground—thankful for an opportunity to finally let go of the heavy weight.
 
 <div class="text-quoted">“Gaaaah!”</div>
 
@@ -101,7 +101,7 @@ She murmured something I barely even understood. The air conditioner was still g
 
 She certainly didn't seem like she was about to wrap up for the day. Besides... it wasn't even noon yet. Ignoring her mindless babbling, my thoughts drifted off to just now, before I entered her place.
 
-That's right — just before her door I saw a small dog, not a lot bigger than a mere puppy. I had no idea where it came from or who it belonged to. Neither seemed Frau, who was shouting at it through the intercom's speakers, desperately trying to chase it away.
+That's right—just before her door I saw a small dog, not a lot bigger than a mere puppy. I had no idea where it came from or who it belonged to. Neither seemed Frau, who was shouting at it through the intercom's speakers, desperately trying to chase it away.
 
 <div class="text-quoted">“Wh-Would you plea— AAAAAHHH, WHAT ARE YOU DOING?!”</div>
 
@@ -125,13 +125,13 @@ Unsure what she meant by it, I repeated her words of just now.
 
 <div class="text-quoted">“The Irei General Store.”</div>
 
-Both of us fell silent. Not saying a word, avoiding each other's gaze. Even though Frau had barely known Mizuka-san, she was still being considerate — something, I was deeply thankful for.
+Both of us fell silent. Not saying a word, avoiding each other's gaze. Even though Frau had barely known Mizuka-san, she was still being considerate—something, I was deeply thankful for.
 
 I haven't actually been to Mizuka-san's place ever since. I heard her Mom had been taking over the store after that incident, as she was already helping out every now and then. But of course... that wouldn't be a permanent solution.
 
 Once again, the scene at Cape Kadokura came to my mind. Her blood-stained face, the glowing sunset right behind... and far below, the deadly rocks of the southern sea.
 
-I managed to shake off my delusion before it got the better of me. However — I felt reminded of why I came.
+I managed to shake off my delusion before it got the better of me. However—I felt reminded of why I came.
 
 <div class="text-quoted">“Hey, Kona-chan... What's the progress so far?”</div>
 
@@ -197,7 +197,7 @@ Quite obviously, she was trying to evade the question.
 
 <div class="text-quoted">“How couldn't I worry unless I know who it is...?!”</div>
 
-Right then, a sudden sound echoed throughout the room. Apparently it came from Frau's PokeCom, that still was in her hands. Upon hearing the notification, she unlocked the device's screen — and began to read some kind of mail.
+Right then, a sudden sound echoed throughout the room. Apparently it came from Frau's PokeCom, that still was in her hands. Upon hearing the notification, she unlocked the device's screen—and began to read some kind of mail.
 
 <div class="text-quoted">“'M-My 2D wives longed for my presence'. W-What a legit excuse, lol.”</div>
 
@@ -237,7 +237,7 @@ I shot her a questioning glance.
 
 That's right...
 
-A few days ago — on the same day me and Akiho were in the hangar with Misa-nee — I went to her, asking whether she could do me that one favour. Even so, I haven't revealed Misa-nee's request to Frau yet.
+A few days ago—on the same day me and Akiho were in the hangar with Misa-nee—I went to her, asking whether she could do me that one favour. Even so, I haven't revealed Misa-nee's request to Frau yet.
 
 <div class="text-quoted">“Wh-Where's the original at, anyway?”</div>
 
@@ -323,7 +323,7 @@ I stretched each syllable, so as to get her attention.
 
 <div class="text-quoted">“Duh...”</div>
 
-As my words hit her, she instantly went silent — a huffy expression painted on her face.
+As my words hit her, she instantly went silent—a huffy expression painted on her face.
 
 <div class="text-quoted">“So... let's get back on topic.”</div>
 
@@ -331,7 +331,7 @@ I made another attempt to get her on track again. Talking with Frau sure took ef
 
 <div class="text-quoted">“Say, Kona-chan. Is it done?”</div>
 
-She picked up her PokeCom again. Right before — as she was digging through the loads of BL content I placed in front of her — she dropped it to the floor, where it has been lying up until now.
+She picked up her PokeCom again. Right before—as she was digging through the loads of BL content I placed in front of her—she dropped it to the floor, where it has been lying up until now.
 
 <div class="text-quoted">“L-Let me take a look...”</div>
 
@@ -357,7 +357,7 @@ Back then, on that very day. After leaving the airport I payed Mizuka-san's plac
 
 <div class="text-quoted">“B-Basically, you j-just need to open it. That's all...”</div>
 
-After hearing Misa-nee's very last words, my body almost dragged me out there on its own. As I was looking for Kimijima Report No. 7, I only checked the area around the shrine. However, on the southern side, placed right at the cliff — I found another geotag.
+After hearing Misa-nee's very last words, my body almost dragged me out there on its own. As I was looking for Kimijima Report No. 7, I only checked the area around the shrine. However, on the southern side, placed right at the cliff—I found another geotag.
 
 I had no idea how long it has already been waiting there. Yet, upon seeing its strange power mark, there was no doubt about its contents. That's why—
 
@@ -369,7 +369,7 @@ After all... the reports worked based on the principle of propaganda. Causing ma
 
 In the end, it wasn't merely due to Misa-nee's request. Even without it, I would have shared her feelings. That's why, eventually, I decided to go here. Pay that oddly perverted girl right in front of me just another visit.
 
-Because... despite her quirks, it still held true Frau was a genius programmer. Whether outsourced or not – without her help, I wouldn't ever have had the chance.
+Because... despite her quirks, it still held true Frau was a genius programmer. Whether outsourced or not—without her help, I wouldn't ever have had the chance.
 
 <div class="text-quoted">“Thank you, Kona-chan.”</div>
 
@@ -383,7 +383,7 @@ That's why... even as I left Frau's apartment, I was still pondering when to pul
 <div class="story-chapter-fadeout story-chapter-fade"></div>
 
 
-##### — Next Phase —
+##### — Final Phase —
 <div class="h5"><a href="Phase 13.6.html">「 Heliotail Disperser 」</a></div>
 
 </div>

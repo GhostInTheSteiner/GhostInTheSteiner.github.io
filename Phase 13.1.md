@@ -21,47 +21,47 @@
 
 The bustling atmosphere along with its vibrant laughter, lots of cheers and uncountable congratulations started to gradually fade out. The moment the hangar's giant roller shutters reached the ground, thousands of voices were reduced to a quiet mumble.
 
-<div class="text-italic">*Pleasant. And comforting.*</div>
+<div class="text-italic">Pleasant. And comforting.</div>
 
 The stress and tension eased up, as my body was finally able to find some rest.
 
-I already felt unable to do so much as stand right after the battle. However now — after just another event that used up the last bit of my energy... After all those people who kept talking, and kept congratulating me. After all this, it was already a difficult task trying to breath, let alone to speak.
+I already felt unable to do so much as stand right after the battle. However now—after just another event that used up the last bit of my energy... After all those people who kept talking, and kept congratulating me. After all this, it was already a difficult task trying to breath, let alone to speak.
 
 <div class="story-image"><img src="images/IBG001D.PNG"></div>
 
 I didn't exactly keep track of time, but it felt like hours before I managed to escape the crowd. I said 'escape', however... In reality, I don't think I did. I probably went more with the flow than anything else.
 
-Fortunately Super GunBuild-1 took over most of the attention at some point, giving me a good opportunity to sneak away. And so, I found myself at this old airport hangar — the very same place where it all began.
+Fortunately Super GunBuild-1 took over most of the attention at some point, giving me a good opportunity to sneak away. And so, I found myself at this old airport hangar—the very same place where it all began.
 
 Without the shutters being opened there was an absolute lack of natural sunlight. Usually, I would have turned on the lights right away. However... it seemed like someone else already did so. That's right—
 
 <div class="text-quoted">“It's why... I wanna stay right by her side, too. Until she wakes up...”</div>
 
-Almost a decade ago — right here, on this very island — 'her' idea was born. In fact, not merely an idea... 'Her' wish went far beyond that.
+Almost a decade ago—right here, on this very island—'her' idea was born. In fact, not merely an idea... 'Her' wish went far beyond that.
 
 <div class="text-quoted">“And when she does... I'll tell her.”</div>
 
-No matter how ambitious, no matter how foolish. 'She' continued to pursue her goals. Following the dream that sparked from her wish. And in the end — as that dream crossed the border of reality — 'she' was no longer on her own.
+No matter how ambitious, no matter how foolish. 'She' continued to pursue her goals. Following the dream that sparked from her wish. And in the end—as that dream crossed the border of reality—'she' was no longer on her own.
 
 <div class="text-quoted">“I love you, Big Sis.”</div>
 
 In this very moment... the person caught up in that girls' dreams the most. She was right here.
 
-Kneeing in the corner of the room, in front of her covers that spread out all over the floor. And on top of them, 'her' slender and seemingly weary figure. The figure of a person that finally returned home — after seven long years.
+Kneeing in the corner of the room, in front of her covers that spread out all over the floor. And on top of them, 'her' slender and seemingly weary figure. The figure of a person that finally returned home—after seven long years.
 
-<div class="text-italic">*Senomiya Misaki.*</div>
+<div class="text-italic">Senomiya Misaki.</div>
 
-The girl whose dreams — unreachable as they may have been — finally became true. Right here, on this long forgotten airport. A far off place in the middle of nowhere, that all of a sudden became a spark full of hope.
+The girl whose dreams—unreachable as they may have been—finally became true. Right here, on this long forgotten airport. A far off place in the middle of nowhere, that all of a sudden became a spark full of hope.
 
 And at the same time, the girl who chose to become the enemy of the entire world. In exchange for her dreams and hopes, in order to protect what she cherished most of all: A mere two children, who long since became an important part of her life.
 
-I closed the distance to Misa-nee and sat down on the other side of her enfeebled body, right in front of Akiho. Misa-nee was still covered by the bodysuit she wore while piloting KAMINAGI. Even now, she appeared to be unconscious — only her breast moved to the rhythm of her breathing.
+I closed the distance to Misa-nee and sat down on the other side of her enfeebled body, right in front of Akiho. Misa-nee was still covered by the bodysuit she wore while piloting KAMINAGI. Even now, she appeared to be unconscious—only her breast moved to the rhythm of her breathing.
 
 <div class="text-quoted">“She hasn't woken up yet, has she?”</div>
 
 I directed my gace at her face. Her eyes were completely closed, her face expressionless. On the right side I could see a long scar, probably caused by the pile bunker that hit KAMINAGI's pilot hatch during the battle.
 
-Even so her face was still reminiscent of the person she has shown to the world — the smart and beautiful PR-girl, that used to appear in ExCo's HUG announcements.
+Even so her face was still reminiscent of the person she has shown to the world—the smart and beautiful PR-girl, that used to appear in ExCo's HUG announcements.
 
 Akiho slightly shakes her head in response to my question, a regretful expression on her face.
 
@@ -73,11 +73,11 @@ Right after the battle, the two of us made a decision. Had we called an ambulanc
 
 For one last time, Akiho and I wanted to bring Misa-nee to the abandoned airport hangar. To the very place where the Robotics Club was born. If she were to wake up, we wanted her to remember... 
 
-<div class="text-italic">*'That' dream.*</div>
+<div class="text-italic">'That' dream.</div>
 
 A dream, that must have seemed forgotten and buried ever since the day she left.
 
-“I wonder... will you ever see this place again?", Akiho whispered, gently holding Misa-nee's right hand.
+<div class="text-quoted-inline">“I wonder... will you ever see this place again?"</div>, Akiho whispered, gently holding Misa-nee's right hand.
 
 Something wet dropped onto her nose, leaving behind a moist trail as it slowly moved down her cheek. I looked up... was Akiho crying?
 
@@ -85,7 +85,7 @@ Something wet dropped onto her nose, leaving behind a moist trail as it slowly m
 
 That's right. Nine years ago, following that unforgettable incident...
 
-'You' were never leaving her side. Silently praying, and desperately hoping — just like Aki-chan is now. Still waiting for 'you' to finally wake up.
+'You' were never leaving her side. Silently praying, and desperately hoping—just like Aki-chan is now. Still waiting for 'you' to finally wake up.
 
 <div class="text-quoted">“Hey, Misa-nee...”</div>
 
@@ -99,7 +99,7 @@ Despite becoming an object of ridicule. Despite being Misa-nee's legacy, that no
 
 It was difficult to remember all the names and faces of who I've been talking to. A few of them however... I won't forget that easily.
 
-“There are all kinds of people out there. People who joined the Robotics Club. Jun-chan, Subaru-kun and Kona-chan..." 
+<div class="text-quoted">“There are all kinds of people out there. People who joined the Robotics Club. Jun-chan, Subaru-kun and Kona-chan..."</div> 
 
 Admittedly, none of them joined of their own accord. However, devoting their talents to GunBuild-1, all of them pursued their individual dreams.
 

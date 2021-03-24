@@ -115,3 +115,20 @@ h2 {
 	/* text-decoration: underline; */
 	font-size: var(--topheader-text-size);
 }
+
+.blog-title-top {
+	text-align: center;
+	font-style: italic;
+	font-size: 1em;
+	color: skyblue;
+}
+
+.blog-title-bottom {
+	text-align: center;
+	text-transform: uppercase;
+    /* color: black; */
+	color: goldenrod;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-top: 15px;
+}

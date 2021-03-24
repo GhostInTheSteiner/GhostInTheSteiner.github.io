@@ -23,7 +23,7 @@ I stood at the empty airport apron. The hustle and bustle of a few days ago comp
 
 Right after leaving Frau's room I decided to come here. To the place that should become my last opportunity to spend time Misa-nee. At least... for a while to come.
 
-Super GunBuild-1 — proudly standing here just a few days ago — was now nowhere to be found. That's because—
+Super GunBuild-1—proudly standing here just a few days ago—was now nowhere to be found. That's because—
 
 <div class="text-quoted">“Indeed... this is going to become a good attraction at this year's festival! Now that's IMPACT! Gahaha...”</div>
 
@@ -35,19 +35,19 @@ Leaving GunBuild-1 aside, my thoughts drifted off to Misa-nee.
 
 On that day, right after the paramedics picked her up, she was transported to the General Tanegashima Hospital. As direct relative, Akiho has already been allowed to see her. And indeed— 
 
-<div class="text-italic">*“I'll visit... I'll visit as often as I can, as soon as possible...”*</div>
+<div class="text-italic">“I'll visit... I'll visit as often as I can, as soon as possible...”</div>
 
-Whenever she had enough time on her hands, she would get on her scooter and head right to Minamitane. With the graduation ceremony being mere days ahead there weren't a lot of reasons to still visit school — so she stopped by almost each day. I myself, however...
+Whenever she had enough time on her hands, she would get on her scooter and head right to Minamitane. With the graduation ceremony being mere days ahead there weren't a lot of reasons to still visit school—so she stopped by almost each day. I myself, however...
 
-Even now, several days after our battle — I haven't found the courage to do so. The way I've seen Misa-nee in that abandoned airport hangar — her mind barely conscious, her thoughts more lost in a delirium than connecting with the world around her. It was that exact same way that I kept her on my mind ever since. An image that I still wasn't able to let go off.
+Even now, several days after our battle—I haven't found the courage to do so. The way I've seen Misa-nee in that abandoned airport hangar—her mind barely conscious, her thoughts more lost in a delirium than connecting with the world around her. It was that exact same way that I kept her on my mind ever since. An image that I still wasn't able to let go off.
 
-Of course, I wanted to visit her. After all... Misa-nee still meant a lot to me, just like she did to Akiho. So just today — I finally made my decision. Early this morning, right before visiting Frau, I picked up my scooter and set out for the hospital. In the dim light right before sunrise its bleak facade almost seemed hostile as I approached the entrance.
+Of course, I wanted to visit her. After all... Misa-nee still meant a lot to me, just like she did to Akiho. So just today—I finally made my decision. Early this morning, right before visiting Frau, I picked up my scooter and set out for the hospital. In the dim light right before sunrise its bleak facade almost seemed hostile as I approached the entrance.
 
-Even though visiting hours already started, I was still worried about coming at this time of day. Except for the hospital staff I came across no one else as I walked through the building's endless corridors. To avoid bothersome questions I refrained from asking — so it took me a while to find Misa-nee's room.
+Even though visiting hours already started, I was still worried about coming at this time of day. Except for the hospital staff I came across no one else as I walked through the building's endless corridors. To avoid bothersome questions I refrained from asking—so it took me a while to find Misa-nee's room.
 
 And as I finally did... I hesitated.
 
-Her door was right before me, yet I felt unable to move an inch. As if paralyzed, with one hand on the door handle — I just stood there, feeling like some kind of weirdo.
+Her door was right before me, yet I felt unable to move an inch. As if paralyzed, with one hand on the door handle—I just stood there, feeling like some kind of weirdo.
 
 That's why... as the door suddenly opened, I reflexively winced. Right in front of me appeared Akiho, a bewildered expression painted on her face.
 
@@ -67,11 +67,11 @@ As my words reached her, a gloomy shadow passed over her eyes.
 
 Apparently, she was still in some sort of coma. Occasionally she would attempt to mumble something, but... according to Akiho, she wasn't able to hold a proper conversation. So all she could do was sit by her side and listen.
 
-<div class="text-italic">*“...you've only... ever been average.”*</div>
+<div class="text-italic">“...you've only... ever been average.”</div>
 
-Back then — even if just for a few moments —  she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
+Back then—even if just for a few moments— she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
 
-Just how many days would pass by until she woke up? And the very moment her eyes were about to open... just what would remain — of that boastful and incredibly haughty Misa-nee, the two of us came to like that much?
+Just how many days would pass by until she woke up? And the very moment her eyes were about to open... just what would remain—of that boastful and incredibly haughty Misa-nee, the two of us came to like that much?
 
 Shaking of my memories, I took out my PokeCom and opened the documents viewer.
 
@@ -85,26 +85,26 @@ The reveal of her memories, that almost ended up being lost. Unpublished memoirs
 
 <div class="text-quoted">“Perhaps... it's going to help a bit.”</div>
 
-Right now, on the mass-media just as on Twipo... the debate was still going strong. Senomiya Misaki — whether she was a hero or a villain, none of that has been entirely judged yet.
+Right now, on the mass-media just as on Twipo... the debate was still going strong. Senomiya Misaki—whether she was a hero or a villain, none of that has been entirely judged yet.
 
-<div class="text-italic">*It matters not how strait the gate.*  </div>
-<div class="text-italic">*How charged with punishments the scroll.*</div>
+<div class="text-italic">It matters not how strait the gate.<br>
+How charged with punishments the scroll.</div>
 
 That's why... I kept hoping. Believing in a future, that Misa-nee was part of again. One distant day, that me and Akiho could spend with that oddly confident and overly conceited girl once again.
 
 <div class="text-quoted">“After all... that's the Misa-nee we want to see.”</div>
 
-As I spoke those words... I felt how my fingertip touched the icon. And right then, as I launched the payload — a certain image came to the back of my mind.
+As I spoke those words... I felt how my fingertip touched the icon. And right then, as I launched the payload—a certain image came to the back of my mind.
 
 Nine years ago, on one of those days... We were sitting on a bench in Uchugaoka Park, a mass of people around us. All of them eagerly waiting, following the countdown voice from the speakers.
 
-And just like back then... as the white fountain of smoke shot up in front of us, growing taller by the second. The words she would scream against the sky, straight in the direction of that man-made lump of metal. Right as it cut through the clouds — and rose up into the heavens.
+And just like back then... as the white fountain of smoke shot up in front of us, growing taller by the second. The words she would scream against the sky, straight in the direction of that man-made lump of metal. Right as it cut through the clouds—and rose up into the heavens.
 
 <div class="text-quoted">“Gooo, hot dog! Gooo!”</div>
 
 Resonating all over this old airport's runway, I heard my words spreading out into the distance. For a little while their echoes kept reverberating in the air, before they gradually faded out across the islands' endless hills and countless valleys.
 
-And just the same in the augmented place — where no eye could see, and no hand could reach. A myriad of pieces scattered once again. Filling in the unseen gaps... and giving shape to yet another truth.
+And just the same in the augmented place—where no eye could see, and no hand could reach. A myriad of pieces scattered once again. Filling in the unseen gaps... and giving shape to yet another truth.
 
 <div class="text-quoted">“Say, Misa-nee... that dream of yours.”</div>
 
@@ -116,8 +116,8 @@ I recalled her wish of almost ten years ago. The events that gave birth to her s
 *****
 &nbsp;
 
-### <center>*Once more:*</center>
-##  <center>— **Mysterious report file appears all over the world** —</center>
+<div class="blog-title-top">Once more:</div>
+<div class="blog-title-bottom">— Mysterious report file appears all over the world —</div>
 
 &nbsp;
 
@@ -129,7 +129,7 @@ What's more, is that the file is titled ***“Kimijima Report No. 0”***. Feels
 
 Kimijima Kou, the mastermind that appeared in <span class="twipo-handle-blue">@M_NAGAFUKADA</span>'s livestream just a week ago. The very person that was supposed to have been defeated and eliminated by the brave members of the ***“C.T. Robotics Club”***, who faced him in an heroic battle using their incredible ***“Super GunBuild-1”***.
 
-After the sudden appearance of yet another report file we might be tempted to believe he has returned. However, dear readers, before you gasp in shock: Please take a look at the report's contents. They weren't written by Kimijima Kou himself. Rather — and now hold your breath — they origin from noone else than the overly popular face of Exoskeleton Company: ***Miss Senomiya Misaki***.
+After the sudden appearance of yet another report file we might be tempted to believe he has returned. However, dear readers, before you gasp in shock: Please take a look at the report's contents. They weren't written by Kimijima Kou himself. Rather—and now hold your breath—they origin from noone else than the overly popular face of Exoskeleton Company: ***Miss Senomiya Misaki***.
 
 That's right. After all this, she seems to have left behind one last message. Memoirs that all of us should learn about, and that could very well flip the image of her upside down in your head!
 
@@ -181,7 +181,7 @@ Wait... WAIT! So that wasn't actually a troll? I've seen one of those reports ri
 <br></br>
 
 **ENDER_6** <span class="twipo-handle-grey">*@EnderJohnson*</span>  
-<span class="twipo-handle-blue">@ChellyHeart @Atsumi_Jan</span> It's all true. Can confirm. I've just finished reading that file myself and holy cow — IT'S WILD!
+<span class="twipo-handle-blue">@ChellyHeart @Atsumi_Jan</span> It's all true. Can confirm. I've just finished reading that file myself and holy cow—IT'S WILD!
 <br></br>
 
 **ENDER_6** <span class="twipo-handle-grey">*@EnderJohnson*</span>  
@@ -209,7 +209,7 @@ Wait... WAIT! So that wasn't actually a troll? I've seen one of those reports ri
 <br></br>
 
 **Hououin Kyouma (bot)** <span class="twipo-handle-grey">*@Phenix_in_CrimsonTruth*</span>  
-<span class="twipo-handle-blue">@Atsumi_Jan</span> The organization's hidden agents. I see — you've finally shown yourself...
+<span class="twipo-handle-blue">@Atsumi_Jan</span> The organization's hidden agents. I see—you've finally shown yourself...
 <br></br>
 
 **ATSUMI_JAN** <span class="twipo-handle-grey">*@Atsumi_Jan*</span>  
@@ -268,7 +268,7 @@ Finished the first section. I swear I've seen that Airi girl once before. Must h
 <br></br>
 
 **ENDER_6** <span class="twipo-handle-grey">*@EnderJohnson*</span>  
-<span class="twipo-handle-blue">@ChellyHeart</span> Almost certainly not an act, no... <span class="twipo-handle-blue">@Balance_Boy</span> It's no urban legend — there are quite a few recordings on MewTube, actually.
+<span class="twipo-handle-blue">@ChellyHeart</span> Almost certainly not an act, no... <span class="twipo-handle-blue">@Balance_Boy</span> It's no urban legend—there are quite a few recordings on MewTube, actually.
 <br></br>
 
 **DJMAZ** <span class="twipo-handle-grey">*@djmaz11*</span>  
@@ -276,7 +276,7 @@ Received a message from a friend abroad (<span class="twipo-handle-blue">@MAGNET
 <br></br>
 
 **BALANCE_BOY** <span class="twipo-handle-grey">*@Balance_Boy*</span>  
-WTF!! I just checked Deluuodle Images... That girl — Airi was her name, right? She looks EXACTLY the same! She's just like the girl in <span class="twipo-handle-blue">@M_NAGAFUKADA</span>'s stream...!
+WTF!! I just checked Deluuodle Images... That girl—Airi was her name, right? She looks EXACTLY the same! She's just like the girl in <span class="twipo-handle-blue">@M_NAGAFUKADA</span>'s stream...!
 <br></br>
 
 **Mitsuhiko Nagafukada** <span class="twipo-handle-grey">*@M_NAGAFUKADA*</span>    
@@ -364,7 +364,7 @@ Japanese people reading English localizations... Just what world do we live in? 
 <div class="story-chapter-fadeout story-chapter-fade"></div>
 
 
-##### — FIN —
+#####—FIN —
 <div class="h5">「 Thanks for reading! 」</div>
 
 </div>

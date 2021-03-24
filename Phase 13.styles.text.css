@@ -1,6 +1,8 @@
 :root {
     --margin-text-italic: 30px;
-    --margin-text-quoted: 28px;
+    /* --margin-text-quoted: 28px; */
+    --margin-text-quoted: 30px;
+    --weight-text-quoted: 500;
 }
 
 /* REDO */
@@ -13,15 +15,20 @@
 /* REDO */
 .text-quoted {
     margin-left: 10px;
-    font-weight: 500;
+    font-weight: var(--weight-text-quoted);
     margin-top: var(--margin-text-quoted);
     margin-bottom: var(--margin-text-quoted);
+}
+
+.text-quoted-inline {
+    font-weight: var(--weight-text-quoted);
+    display: inline-block;
 }
 
 .text-italic {
 	margin-left: 10px;
     font-style: italic;
-    font-weight: bolder;
+    font-weight: bold;
 
     margin-left: 10px;
     margin-top: var(--margin-text-italic);
