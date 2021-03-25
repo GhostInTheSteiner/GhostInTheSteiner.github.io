@@ -19,7 +19,7 @@
 
 <div class="story-chapter-text">
 
-<div class="story-image"><img src="images/EV_ZZZ017A.png"></div>
+<div class="story-image"><img src="images/EV_ZZZ017A.PNG"></div>
 
 The bustling atmosphere along with its vibrant laughter, lots of cheers and countless congratulations started to gradually fade out. The moment the hangar's giant roller shutters reached the ground, thousands of voices were reduced to a quiet mumble.
 

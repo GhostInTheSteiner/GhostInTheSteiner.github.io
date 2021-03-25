@@ -119,7 +119,7 @@ Akiho, apparently interviewed by policemen, seemed as if she wanted to turn arou
 
 Then, as if to reply... 
 
-<div class="story-image story-image-small"><img src="images/RN22_355e.png"></div>
+<div class="story-image story-image-small"><img src="images/RN22_355e.PNG"></div>
 
 High up in the sky, the sun came out from beneath the orange-colored clouds. Bathed by its golden shades of light, Super GunBuild-1's posture almost felt reminiscent of an heroic warrior. An exhausted veteran, marked by a deep scar running from his shoulder down to his waist.
 

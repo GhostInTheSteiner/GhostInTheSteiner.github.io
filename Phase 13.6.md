@@ -100,7 +100,7 @@ As I spoke those words... I felt how my fingertip touched the icon. And right th
 
 Nine years ago, on one of those days... We were sitting on a bench in Uchugaoka Park, a mass of people around us. All of them eagerly waiting, following the countdown voice from the speakers.
 
-<div class="story-image"><img src="images/IBG001D.png"></div>
+<div class="story-image"><img src="images/IBG001D.PNG"></div>
 
 And just like back then... as the white fountain of smoke shot up in front of us, growing taller by the second. The words she would scream against the sky, straight in the direction of that man-made lump of metal. Right as it cut through the clouds—and rose up into the heavens.
 

@@ -129,7 +129,7 @@ Cold shivers went down my spine. Even now, the memory was still present. Vivid, 
 
 <div class="text-quoted">“Misa-nee. There is something... I need to tell you. A message by a dear friend of yours.”</div>
 
-<div class="story-image"><img src="images/EV_IRE005B.png"></div>
+<div class="story-image"><img src="images/EV_IRE005B.PNG"></div>
 
 The pain-filled eyes, that forced smile. And that moment, as 'she' ultimately succumbed. Will broken, resistance beaten. Eventually giving herself away to 'her' fate.
 
@@ -155,7 +155,7 @@ That's why... certainly, Misa-nee was a weird girl. Back when we were kids, we m
 
 Before the Robotics Club came into existence, before Mizuka-san and Mitchie became part of her life—I couldn't recall any. She started off all by herself, enduring mockery and ridicule ever since. Up until this point, just what kind of person have you been, Misa-nee?
 
-<div class="story-image"><img src="images/EV_MIS006A.png"></div>
+<div class="story-image"><img src="images/EV_MIS006A.PNG"></div>
 
 <div class="text-quoted">“...the people I met.”</div>
 
