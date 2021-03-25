@@ -9,7 +9,7 @@
         --story-text-zoom: 1.2;
         /* --story-border-color: rgb(0, 114, 145); */
         --story-border-color: rgb(0, 114, 145);
-        --story-text-size: 1.2em;
+        --story-text-size: 1.1em;
         --story-text-size-applied: calc(var(--story-text-size) * var(--story-text-zoom));
         --nextphase-text-size-top: 1.5em;
         --nextphase-text-size-bottom: 2.5em;
