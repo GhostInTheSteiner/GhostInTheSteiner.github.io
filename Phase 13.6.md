@@ -372,3 +372,7 @@ Japanese people reading English localizations... Just what world do we live in? 
 <div class="h5">「 Thanks for reading! 」</div>
 
 </div>
+
+<script src="libs/popper.js"></script>
+<script src="libs/tippy.js"></script>
+<script src="Phase 13.scripts.glossary.js"></script>

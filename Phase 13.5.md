@@ -23,7 +23,7 @@
 
 Pouring rain and a strong sea breeze were in the air. During the winter, the winds were always blowing strong over Tanegashima's rural grounds. The air temperature didn't drop much, but due to the strong gusts it felt quite cold... Especially here, on the southern coast.
 
-<div class="text-quoted">“Sister Centipede, you know Kai and Aki, right?”</div>
+<div class="text-quoted">“<span id="gejinee" class="text-glossary">Sister Centipede</span>, you know Kai and Aki, right?”</div>
 
 Gazing into the distance, I sent out my question into the void. In the end the direction wouldn't matter anyway.
 
@@ -35,7 +35,7 @@ Her artificial voice promptly answered, as precisely as it always did.
 
 Without much hope, I shot out my next question.
 
-<div class="text-quoted">“Sister Centipede is not equipped with the functions necessary to answer that question.” </div>
+<div class="text-quoted">“Sister Centipede is not equipped with the functions necessary to answer that question.”</div>
 
 Yeah, that sounded about right. Sister Centipede has always been cold like that.
 
@@ -80,7 +80,7 @@ As I entered her place, I was instantly hit by a wall of awful smell and a breez
 
 And right in front of that gate to a second world sat a figure, that didn't even bother to turn around. Intently staring at some kind of code displayed on the screen in front of her. Frau Koujiro—the genius programmer and maintainer of the massively successful online game Kill-Ballad. As I was gazing on her back, I heard how a single word left her mouth...
 
-<div class="text-quoted">“Nullpo.”</div>
+<div class="text-quoted"><span id="nullpo" class="text-glossary">“Nullpo.”</span></span></div>
 
 Still fixated on that code, not paying the slightest attention to what happened around her.
  
@@ -170,7 +170,7 @@ For a few seconds Frau went silent. The expression on her face unchanged, almost
 
 Then, all of a sudden—
 
-<div class="text-quoted">“Pawahara!”</div>
+<div class="text-quoted"><span id="pawahara" class="text-glossary">“Pawahara!”</span></div>
 
 Her eyes widened, and her face became furious. As she spoke, her voice began to stutter even more...
 
@@ -356,15 +356,13 @@ I didn't receive a reply. Instead, I heard a notification sound from my own Poke
 
 A ridiculously long amount of characters were part of the filename, apparently indicating the version. However, in front of them all, I could still see the document's original title.
 
-<div class="text-quoted">“That file is e-everything you need. B-Basically, you just need to open it. That's all...”</div>
-
-
-
-<!-- <div class="text-quoted">“B-Basically, you j-just need to open it. That's all...”</div> -->
-
-<div class="story-image"><img src="images/cape.png"></div>
+<div class="text-quoted">“That file is e-everything you need.”</div>
 
 Back then, on that very day. After leaving the airport I payed Mizuka-san's place of death one last visit. Yet... it wasn't her that I came there for.
+
+<div class="text-quoted">“B-Basically, you j-just need to open it. That's all...”</div>
+
+<div class="story-image"><img src="images/cape.png"></div>
 
 After hearing Misa-nee's very last words, my body almost dragged me out there on its own. As I was looking for Kimijima Report No. 7, I only checked the area around the shrine. However, on the southern side, placed right at the cliff—I found another geotag.
 
@@ -396,3 +394,7 @@ That's why... even as I left Frau's apartment, I was still pondering when to pul
 <div class="h5"><a href="Phase 13.6.html">「 Heliotail Disperser 」</a></div>
 
 </div>
+
+<script src="libs/popper.js"></script>
+<script src="libs/tippy.js"></script>
+<script src="Phase 13.scripts.glossary.js"></script>

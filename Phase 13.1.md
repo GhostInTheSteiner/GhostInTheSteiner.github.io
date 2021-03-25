@@ -55,7 +55,7 @@ The girl whose dreams—unreachable as they may have been—finally became true.
 
 And at the same time, the girl who chose to become the enemy of the entire world. In exchange for her dreams and hopes, in order to protect what she cherished most of all: A mere two children, who long since became an important part of her life.
 
-I closed the distance to Misa-nee and sat down on the other side of her enfeebled body, right in front of Akiho. Misa-nee was still covered by the bodysuit she wore while piloting KAMINAGI. Even now, she appeared to be unconscious—only her breast moved to the rhythm of her breathing.
+I closed the distance to <span id="misanee" class="text-glossary">Misa-nee</span> and sat down on the other side of her enfeebled body, right in front of Akiho. Misa-nee was still covered by the bodysuit she wore while piloting KAMINAGI. Even now, she appeared to be unconscious—only her breast moved to the rhythm of her breathing.
 
 <div class="story-image"><img src="images/EV_MIS020D1_2.png"></div>
 
@@ -127,3 +127,7 @@ A sharp word cut me off mid-sentence. As if it cut straight through my throat, w
 <div class="h5"><a href="Phase 13.2.html">「 Heliopause Radiator 」</a></div>
 
 </div>
+
+<script src="libs/popper.js"></script>
+<script src="libs/tippy.js"></script>
+<script src="Phase 13.scripts.glossary.js"></script>

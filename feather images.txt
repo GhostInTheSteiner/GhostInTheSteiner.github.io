@@ -1,0 +1,1 @@
+ls -File | % { & "C:\Program Files\ImageMagick-7.0.11-Q16-HDRI\magick.exe" convert $_.Name -bordercolor black -fill white `( -clone 0 -colorize 100 -shave 20x20 -border 20x20 -blur 0x10 `) -compose copyopacity -composite "out\$($_.BaseName)).png" }

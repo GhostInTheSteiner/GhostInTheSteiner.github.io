@@ -5,14 +5,17 @@
     --weight-text-quoted: 500;
 }
 
-/* REDO */
-.text-centered {
 
-	text-align: center;
-	margin: 20px;
+/* REDO */
+
+.text-centered {
+    text-align: center;
+    margin: 20px;
 }
 
+
 /* REDO */
+
 .text-quoted {
     margin-left: 10px;
     font-weight: var(--weight-text-quoted);
@@ -26,16 +29,27 @@
 }
 
 .text-italic {
-	margin-left: 10px;
+    margin-left: 10px;
     font-style: italic;
     font-weight: bold;
-
     margin-left: 10px;
     margin-top: var(--margin-text-italic);
     margin-bottom: var(--margin-text-italic);
 }
 
+.text-glossary {
+    color: goldenrod;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+
 /*Necessary to avoid text size adjustments by Chrome based mobile browsers*/
-p, .text-italic, .text-quoted, .text-centered, div {
+
+p,
+.text-italic,
+.text-quoted,
+.text-centered,
+div {
     max-height: 999999px;
 }

@@ -171,3 +171,7 @@ Whatever reason it was that caused 'your' life to sway. The undisclosed secret t
 <div class="h5"><a href="Phase 13.5.html">「 Fermi Glow Assembler 」</a></div>
 
 </div>
+
+<script src="libs/popper.js"></script>
+<script src="libs/tippy.js"></script>
+<script src="Phase 13.scripts.glossary.js"></script>

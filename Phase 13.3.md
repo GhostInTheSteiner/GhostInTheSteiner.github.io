@@ -129,7 +129,7 @@ Cold shivers went down my spine. Even now, the memory was still present. Vivid, 
 
 <div class="text-quoted">“Misa-nee. There is something... I need to tell you. A message by a dear friend of yours.”</div>
 
-<div class="story-image"><img src="images/EV_IRE005B.PNG"></div>
+<!-- <div class="story-image"><img src="images/EV_IRE005B.PNG"></div> -->
 
 The pain-filled eyes, that forced smile. And that moment, as 'she' ultimately succumbed. Will broken, resistance beaten. Eventually giving herself away to 'her' fate.
 
@@ -171,7 +171,7 @@ Where she went, whom she visited and why she did so—she never revealed any of 
 
 <div class="story-image"><img src="images/kouhouse.png"></div>
 
-It wasn't before seven full years passed that I should learn about her relation to Kimijima Kou. The mastermind behind the Human Domestication Project—an inhuman attempt at reducing the world population to one billion people.
+It wasn't before seven full years passed that I should learn about her relation to Kimijima Kou. The mastermind behind the <span id="hdproject" class="text-glossary">Human Domestication Project</span>—an inhuman attempt at reducing the world population to one billion people.
 
 <div class="text-italic">“Sometimes... ignorance is bliss...”</div>
 
@@ -204,3 +204,7 @@ Would I ever understand?</div>
 <div class="h5"><a href="Phase 13.4.html">「 Bow Shock Divider 」</a></div>
 
 </div>
+
+<script src="libs/popper.js"></script>
+<script src="libs/tippy.js"></script>
+<script src="Phase 13.scripts.glossary.js"></script>

@@ -109,7 +109,7 @@ Looking back down on her, I realized her eyes began to turn cloudy. It felt like
 
 Deep inside of me. Somewhere between 'his' words and Misa-nee's actions. Something unsettling began to sprout.
 
-<div class="text-quoted-inline">“Misa-nee... that..."</div>>, I began to voice my thoughts. However, I was cut off before I even started.
+<div class="text-quoted-inline">“Misa-nee... that..."</div>, I began to voice my thoughts. However, I was cut off before I even started.
 
 <div class="text-quoted">“...the people I met. Have they been written into my life...? Or were they meant for me...?”</div>
 
@@ -157,3 +157,7 @@ Those eyes... were Akiho's eyes.
 <div class="h5"><a href="Phase 13.3.html">「 Heliosheath Transmitter 」</a></div>
 
 </div>
+
+<script src="libs/popper.js"></script>
+<script src="libs/tippy.js"></script>
+<script src="Phase 13.scripts.glossary.js"></script>
