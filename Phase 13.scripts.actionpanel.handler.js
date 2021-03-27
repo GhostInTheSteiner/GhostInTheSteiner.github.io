@@ -1,7 +1,10 @@
 var colors = [
-    ["black", "#fdfdfd"],
-    ["#1a1a1a", "#fdfdfd"],
-    ["#282828", "#fdfdfd"],
+    // ["black", "#fdfdfd"],
+    // ["#1a1a1a", "#fdfdfd"],
+    // ["#282828", "#fdfdfd"],
+    ["black", "#fff"],
+    ["#1a1a1a", "#fff"],
+    ["#282828", "#fff"],
     ["#E8E8E8", "black"],
     ["#F5F5F5", "black"],
     ["#FFFFFF", "black"],
@@ -49,45 +52,46 @@ function textsizeRefresh() {
 function brightnessIncrease() {
     currentColor = Math.min((colors.length - 1), currentColor + 1);
 
-    // $(":root").css("--background-color", colors[currentColor][0]);
-    $("body").css("background-color", colors[currentColor][0]);
-    document.styleSheets[0].insertRule(
-        `.story-image:before{ 
-            -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-            -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-            box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-        }`, document.styleSheets[0].cssRules.length);
-    $("body").css("color", colors[currentColor][1]);
+    brightnessRefresh(currentColor);
     updateLocalStorage();
 }
 
 function brightnessDecrease() {
     currentColor = Math.max(0, currentColor - 1);
 
-    // $(":root").css("--background-color", colors[currentColor][0]);
-    $("body").css("background-color", colors[currentColor][0]);
-    document.styleSheets[0].insertRule(
-        `.story-image:before{ 
-            -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-            -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-            box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-        }`, document.styleSheets[0].cssRules.length);
-    $("body").css("color", colors[currentColor][1]);
+    brightnessRefresh(currentColor);
     updateLocalStorage();
 }
 
-function brightnessRefresh() {
-    // $(":root").css("--background-color", colors[currentColor][0]);
+function brightnessRefresh(currentColor) {
     $("body").css("background-color", colors[currentColor][0]);
+    $("body").css("color", colors[currentColor][1]);
+
+    $(".h5").hide();
+    $(".h5-white").hide();
+
+    if (currentColor > 2) {
+        $(".h5-white").show();
+        $("h5").css("color", "rgb(0, 114, 145)");
+
+
+    } else {
+        $(".h5").show();
+        $("h5").css("color", "goldenrod");
+    }
+
     document.styleSheets[0].insertRule(
-        `.story-image:before{ 
+        `.story-image:before { 
             -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
             -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
             box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
         }`, document.styleSheets[0].cssRules.length);
-    $("body").css("color", colors[currentColor][1]);
+    document.styleSheets[0].insertRule(
+        `.story-divider:before {
+            background-image: radial-gradient(circle, ` + colors[currentColor][1] + `, transparent);
+        }`, document.styleSheets[0].cssRules.length);
 }
 
 //init
-brightnessRefresh();
-textsizeRefresh();
+brightnessRefresh(currentColor);
+textsizeRefresh(currentColor);

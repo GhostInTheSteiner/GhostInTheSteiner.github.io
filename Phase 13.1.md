@@ -136,6 +136,7 @@ A sharp word cut me off mid-sentence. As if it cut straight through my throat, w
 
 ##### — Next Phase —
 <div class="h5"><a href="Phase 13.2.html">「 Heliopause Radiator 」</a></div>
+<div class="h5-white"><a href="Phase 13.2.html">「 Heliopause Radiator 」</a></div>
 
 </div>
 

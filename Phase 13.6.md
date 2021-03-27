@@ -122,9 +122,7 @@ I recalled her wish of almost ten years ago. The events that gave birth to her s
 
 <div class="text-quoted">“Has it finally come true...?”</div>
 
-&nbsp;
-*****
-&nbsp;
+<div class="story-divider"></div>
 
 <div class="blog-title-top">Once more:</div>
 <div class="blog-title-bottom">— Mysterious report file appears all over the world —</div>
@@ -150,9 +148,7 @@ Don't let yourself be fooled! What's your opinion on those unexpected events? Le
 <span class="twipo-handle-blue">#KUROKANENEWS</span>
 
 
-&nbsp;
-*****
-&nbsp;
+<div class="story-divider"></div>
 
 <div class="twipo-thread">
 
