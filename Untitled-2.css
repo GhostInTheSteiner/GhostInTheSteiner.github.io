@@ -1,0 +1,23 @@
+:root {
+    /* --background-color: rgb(42, 42, 42); */
+    --font-color: #fdfdfd;
+    --background-color: black;
+}
+
+.vscode-body {
+    padding: 0px !important;
+}
+
+body {
+    /* background-color: #1E1E1E; */
+    color: var(--font-color);
+    background-color: var(--background-color);
+    margin: 0px;
+    position: relative;
+    /* background-image: url("images/Bakground.png"); */
+}
+
+.toc-iframe {
+    width: 100%;
+    height: 700px;
+}

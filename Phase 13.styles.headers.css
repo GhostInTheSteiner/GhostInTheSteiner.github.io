@@ -1,134 +1,114 @@
 /* REDO */
+
 :root {
-    --topheader-text-size: 2.2em;
+    --topheader-text-size: 2.3em;
     --bottomheader-text-size: 4.2em;
     --bottomheader-color: lightskyblue;
     /* --bottomheader-color: rgb(0, 173, 221); */
-	--nextphase-text-size-top: 2.7em;
-	--nextphase-text-size-bottom: 4em;
-	--nextphase-color: goldenrod;
+    --nextphase-text-size-top: 2.7em;
+    --nextphase-text-size-bottom: 4em;
+    --nextphase-color: goldenrod;
 }
 
 .h5 {
-	font-size: var(--nextphase-text-size-bottom);
-	color: var(--nextphase-color);
-	text-align: center;
-	font-weight: 600px;
-	border-top: 2px solid goldenrod;
-	/* margin-left: 50px;
+    font-size: var(--nextphase-text-size-bottom);
+    color: var(--nextphase-color);
+    text-align: center;
+    font-weight: 600px;
+    border-top: 2px solid goldenrod;
+    /* margin-left: 50px;
 	margin-right: 50px; */
-	border-bottom: 2px solid goldenrod;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
-	margin-bottom: 15vh;
-	background-image:
-	radial-gradient(
-		ellipse,
-		gold,
-		rgba(255, 217, 0, 0.769)
-	);
-	border-image:
-	radial-gradient(
-		circle,
-		gold,
-		rgba(255, 217, 0, 0)
-	) 1;
+    border-bottom: 2px solid goldenrod;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 15vh;
+    background-image: radial-gradient( ellipse, gold, rgba(255, 217, 0, 0.769));
+    border-image: radial-gradient( circle, gold, rgba(255, 217, 0, 0)) 1;
 }
 
 .h5:hover {
-	background-image:
-	radial-gradient(
-		ellipse,
-		gold,
-		rgba(255, 217, 0, 0.769)
-	);
-	border-image:
-	radial-gradient(
-		circle,
-		goldenrod,
-		rgba(255, 217, 0, 0)
-	) 1;
+    background-image: radial-gradient( ellipse, gold, rgba(255, 217, 0, 0.769));
+    border-image: radial-gradient( circle, goldenrod, rgba(255, 217, 0, 0)) 1;
 }
 
-.h5 > a:link, .h5 > a:visited {
-	color: var(--nextphase-color);
-	text-decoration: none;
+.h5>a:link,
+.h5>a:visited {
+    color: var(--nextphase-color);
+    text-decoration: none;
 }
-	
-.h5 > a:hover, .h5 > a:active {
-	color: gold;
-	/* font-weight: bold; */
+
+.h5>a:hover,
+.h5>a:active {
+    color: gold;
+    /* font-weight: bold; */
 }
 
 h5 {
-	text-align: center;
-	font-size: var(--nextphase-text-size-top);
-	color: goldenrod;
-	font-weight: normal;
-	margin-top: 7vh;
-	margin-bottom: 20px;
+    text-align: center;
+    font-size: var(--nextphase-text-size-top);
+    color: goldenrod;
+    font-weight: normal;
+    margin-top: 7vh;
+    margin-bottom: 20px;
 }
 
-
-
 h4 {
-	text-align: center;
-	font-family: 'berenis_adf_proitalic', serif;
-	letter-spacing: 0.5px;
-	font-size: var(--bottomheader-text-size);
-	color: var(--bottomheader-color);
-	margin-top: 28px;
-	margin-bottom: 40px;
-	padding-top: 10px;
-	padding-bottom: 8px;
-	border-top: 2px solid var(--bottomheader-color);
-	border-bottom: 2px solid var(--bottomheader-color);
+    text-align: center;
+    font-family: 'berenis_adf_proitalic', serif;
+    letter-spacing: 0.5px;
+    font-size: var(--bottomheader-text-size);
+    color: var(--bottomheader-color);
+    margin-top: 28px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    border-top: 2px solid var(--bottomheader-color);
+    border-bottom: 2px solid var(--bottomheader-color);
 }
 
 h3 {
-	/* text-align: center; */
-	font-style: italic;
-	font-weight: normal;
+    /* text-align: center; */
+    font-style: italic;
+    font-weight: normal;
     margin-right: 17px;
-	/* margin-bottom: 45px; */
-	/* text-align: right; */
-	color: #b0b0b0;
-	float: right;
-	/* padding-right: 5px;
+    /* margin-bottom: 45px; */
+    /* text-align: right; */
+    color: #b0b0b0;
+    float: right;
+    /* padding-right: 5px;
 	padding-left: 5px; */
-	/* border-right: 1px dashed #b0b0b0; */
+    /* border-right: 1px dashed #b0b0b0; */
     font-size: var(--topheader-text-size);
-
 }
-	
+
 h2 {
-	/* text-align: center; */
+    /* text-align: center; */
     display: inline-block;
     font-weight: bold;
-	padding-left: 0px;
-	padding-right: 0px;
-	margin-top: 27px;
-	text-transform: uppercase;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 30px;
+    text-transform: uppercase;
     /* color: black; */
     color: goldenrod;
-	/* text-decoration: underline; */
-	font-size: var(--topheader-text-size);
+    /* text-decoration: underline; */
+    font-size: var(--topheader-text-size);
 }
 
 .blog-title-top {
-	text-align: center;
-	font-style: italic;
-	font-size: 1em;
-	color: skyblue;
+    text-align: center;
+    font-style: italic;
+    font-size: 1em;
+    color: skyblue;
 }
 
 .blog-title-bottom {
-	text-align: center;
-	text-transform: uppercase;
+    text-align: center;
+    text-transform: uppercase;
     /* color: black; */
-	color: goldenrod;
-	font-size: 1.2em;
-	font-weight: bold;
-	margin-top: 15px;
+    color: goldenrod;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 15px;
 }

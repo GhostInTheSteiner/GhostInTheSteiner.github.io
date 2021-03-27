@@ -1,0 +1,13 @@
+<div data-include="Phase 13.1.html"></div>
+
+<script src="libs/jquery.js"></script>
+<script>
+    $(function() {
+        var includes = $('[data-include]')
+        $.each(includes, function() {
+            var file = $(this).data('include');
+            file = encodeURI(file);
+            $(this).load(file);
+        })
+    })
+</script>

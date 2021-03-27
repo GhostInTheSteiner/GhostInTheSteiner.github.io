@@ -307,14 +307,6 @@ WTF!! I just checked Deluuodle Images... That girl—Airi was her name, right? S
 Thanks again! Currently downloading...
 <br></br>
 
-**ILOVEK2** <span class="twipo-handle-grey">*@I_love_K2*</span>  
-<span class="twipo-handle-blue">@EnderJohnson</span> That last part is absolute insanity...  Must have been a nightmare for poor Misa-chan 
-<br></br>
-
-**JINGUY_53** <span class="twipo-handle-grey">*@Jinguy_53*</span>  
-<span class="twipo-handle-blue">@EnderJohnson</span> Artificial Intelligence sure is a scary thing... Almost feels like some movie transcript ＼(°o°)／ (Is it one? lol)
-<br></br>
-
 **NORIKINDOM** <span class="twipo-handle-grey">*@NorthernKingdom*</span>  
 <span class="twipo-handle-blue">@EnderJohnson</span> FYI, that link just gives a 503 error now. Server probably overloaded... w(°ｏ°)w
 <br></br>
@@ -337,7 +329,7 @@ Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... U
 <br></br>
 
 **PAPB** <span class="twipo-handle-grey">*@papb100*</span>  
-<span class="twipo-handle-blue">@MAGNETLOCK</span> My Englisch sux, but thx!
+<span class="twipo-handle-blue">@MAGNETLOCK</span> My Englisch sucks, but thx!
 <br></br>
 
 **CCNONOBESTGIRL** <span class="twipo-handle-grey">*@NonoKurusu*</span>  

@@ -15,12 +15,15 @@
         --nextphase-text-size-bottom: 2.5em;
         --margin-text-italic: 30px;
         --margin-text-quoted: 20px;
+        --font-color: #fdfdfd;
+        --background-color: #1a1a1a;
     }
     .vscode-body {
-        margin-left: var(--story-text-margin);
         margin-right: var(--story-text-margin);
+        margin-left: var(--story-text-margin);
     }
     body {
+        color: var(--font-color);
         background-color: var(--background-color);
     }
     .story-chapter {
@@ -63,9 +66,9 @@
         margin-right: var(--story-text-margin); */
     }
     .story-image:before {
-        -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
+        /* -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
         -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
-        box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
+        box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color); */
     }
     .text-quoted {
         margin-top: var(--margin-text-quoted);
@@ -102,9 +105,31 @@
     }
     h2 {
         /* font-size: 1.3em */
-        font-size: 1.5em
+        font-size: 1.5em;
+        margin-top: 27px;
     }
-    .toc {
-        font-size: 4em;
+    .st-btn-container {
+        width: 60px;
+        height: 60px;
+    }
+    .left-bottom {
+        bottom: 2em;
+        left: 2em;
+        float: left !important;
+    }
+    .fa-navicon:before,
+    .fa-reorder:before,
+    .fa-bars:before {
+        font-size: 1em;
+    }
+    .st-panel {
+        width: 8em;
+    }
+    div.st-panel {
+        font-size: 15px;
+    }
+    .gridChild {
+        flex: 0 0 50%;
+        height: 4em;
     }
 }

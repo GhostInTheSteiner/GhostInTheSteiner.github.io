@@ -1,0 +1,63 @@
+:root {
+    --icon-size: 35%;
+}
+
+.st-btn-container {
+    width: 10em;
+    height: 10em;
+    background: rgba(112, 128, 144, 0.301);
+}
+
+.left-bottom {
+    bottom: 5em;
+    left: 5em;
+    float: left !important;
+}
+
+.fa-navicon:before,
+.fa-reorder:before,
+.fa-bars:before {
+    font-size: 2em;
+}
+
+.st-panel {
+    background-color: black;
+    width: 50vw;
+}
+
+div.st-panel {
+    font-size: 40px;
+}
+
+.gridChild {
+    flex: 0 0 50%;
+    height: 5em;
+}
+
+#action-text-decrease {
+    background: url("icons/text_decr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: var(--icon-size);
+}
+
+#action-text-increase {
+    background: url("icons/text_incr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: var(--icon-size);
+}
+
+#action-brightness-decrease {
+    background: url("icons/bright_decr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: var(--icon-size);
+}
+
+#action-brightness-increase {
+    background: url("icons/bright_incr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: var(--icon-size);
+}

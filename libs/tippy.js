@@ -29,6 +29,7 @@
         transition-property: transform, visibility, opacity;
         background-color: black;
         color: #fdfdfd;
+        font-size: 2.5em;
     }
 
     @media only screen and (min-device-width: 768px) {
