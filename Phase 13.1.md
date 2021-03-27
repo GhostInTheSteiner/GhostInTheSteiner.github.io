@@ -36,7 +36,7 @@ The bustling atmosphere along with its vibrant laughter, lots of cheers and coun
 
 <div class="text-italic">Pleasant. And comforting.</div>
 
-The stress and tension eased up, as my body was finally able to find some rest.
+The stress and tension eased up, and my body was finally able to find some rest.
 
 I already felt unable to do so much as stand right after the battle. However now—after just another event that used up the last bit of my energy... After all those people who kept talking, and kept congratulating me. After all this, it was already a difficult task trying to breath, let alone to speak.
 
