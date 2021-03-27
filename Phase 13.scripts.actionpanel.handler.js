@@ -81,7 +81,7 @@ function brightnessRefresh(currentColor) {
         $(".h5").show();
         $("h5").css("color", "goldenrod");
         $("h3").css("color", "#b0b0b0");
-        root.css("color", "lightskyblue");
+        root.css("--bottomheader-color", "lightskyblue");
 
     }
 
