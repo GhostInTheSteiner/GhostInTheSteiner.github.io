@@ -2,7 +2,7 @@
 
 @media only screen and (min-device-width: 768px) {
      :root {
-        --story-max-width: 850px;
+        --story-max-width: 870px;
         --story-min-width: 650px;
         --story-text-margin: 20px;
         --story-padding: 40px;
@@ -99,6 +99,8 @@
         font-size: 35px;
         border-top: 1px solid var(--bottomheader-color);
         border-bottom: 1px solid var(--bottomheader-color);
+        margin-top: 28px;
+        margin-bottom: 40px;
     }
     h3 {
         /* font-size: 1.5em */
