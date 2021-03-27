@@ -2,6 +2,9 @@ var colors = [
     ["black", "#fdfdfd"],
     ["#1a1a1a", "#fdfdfd"],
     ["#282828", "#fdfdfd"],
+    ["#E8E8E8", "black"],
+    ["#F5F5F5", "black"],
+    ["#FFFFFF", "black"],
 ]
 
 var root = $(":root");

@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="libs/fontawesome/css/fontawesome.min.css">
+<link rel="stylesheet" href="libs/st-action-panel/st-action-panel.css">
+
 <link rel="stylesheet" href="Phase 13.fonts.berenis.css">
 <link rel="stylesheet" href="Phase 13.fonts.notosans.css">
 <link rel="stylesheet" href="Phase 13.styles.story.general.css">
@@ -5,7 +8,10 @@
 <link rel="stylesheet" href="Phase 13.styles.twipo.css">
 <link rel="stylesheet" href="Phase 13.styles.headers.css">
 <link rel="stylesheet" href="Phase 13.styles.text.css">
+<link rel="stylesheet" href="Phase 13.styles.actionpanel.css">
 <link rel="stylesheet" href="Phase 13.styles.responsive.css">
+
+<div id="actionpanel"></div>
 
 <div class="story-text">
 
@@ -397,4 +403,8 @@ That's why... even as I left Frau's apartment, I was still pondering when to pul
 
 <script src="libs/popper.js"></script>
 <script src="libs/tippy.js"></script>
+<script src="libs/jquery.js"></script>
+<script src="libs/st-action-panel/st-action-panel.js"></script>
+
 <script src="Phase 13.scripts.glossary.js"></script>
+<script src="Phase 13.scripts.actionpanel.js"></script>

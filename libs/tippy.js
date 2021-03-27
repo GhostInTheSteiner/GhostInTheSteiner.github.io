@@ -27,7 +27,7 @@
         line-height: 1.4;
         outline: 0;
         transition-property: transform, visibility, opacity;
-        background-color: black;
+        // background-color: black;
         color: #fdfdfd;
         font-size: 2.5em;
     }

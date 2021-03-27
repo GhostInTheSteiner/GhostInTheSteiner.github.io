@@ -40,7 +40,9 @@
     margin-top: 10px;
     padding-left: 18px;
     padding-right: 18px;
-    font-family: 'Noto Sans JP', sans-serif;
+    /* font-family: 'Noto Sans JP', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Cormorant Garamond', serif; */
 }
 
 .story-chapter {
