@@ -16,7 +16,8 @@
         --margin-text-italic: 30px;
         --margin-text-quoted: 20px;
         --font-color: #fdfdfd;
-        --background-color: #1a1a1a;
+        /* --background-color: #1a1a1a; */
+        --background-color: black;
     }
     .vscode-body {
         margin-right: var(--story-text-margin);
