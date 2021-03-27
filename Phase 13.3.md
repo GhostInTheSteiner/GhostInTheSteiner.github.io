@@ -206,6 +206,7 @@ Would I ever understand?</div>
 
 ##### — Next Phase —
 <div class="h5"><a href="Phase 13.4.html">「 Bow Shock Divider 」</a></div>
+<div class="h5-white"><a href="Phase 13.4.html">「 Bow Shock Divider 」</a></div>
 
 </div>
 

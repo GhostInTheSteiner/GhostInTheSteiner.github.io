@@ -175,6 +175,7 @@ Whatever reason it was that caused 'your' life to sway. The undisclosed secret t
 
 ##### — Next Phase —
 <div class="h5"><a href="Phase 13.5.html">「 Fermi Glow Assembler 」</a></div>
+<div class="h5-white"><a href="Phase 13.5.html">「 Fermi Glow Assembler 」</a></div>
 
 </div>
 

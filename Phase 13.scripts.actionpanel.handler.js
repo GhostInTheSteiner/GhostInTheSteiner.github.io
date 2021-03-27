@@ -73,11 +73,16 @@ function brightnessRefresh(currentColor) {
     if (currentColor > 2) {
         $(".h5-white").show();
         $("h5").css("color", "rgb(0, 114, 145)");
+        $("h3").css("color", "gray");
+        root.css("--bottomheader-color", "rgb(0, 114, 145)");
 
 
     } else {
         $(".h5").show();
         $("h5").css("color", "goldenrod");
+        $("h3").css("color", "#b0b0b0");
+        root.css("color", "lightskyblue");
+
     }
 
     document.styleSheets[0].insertRule(

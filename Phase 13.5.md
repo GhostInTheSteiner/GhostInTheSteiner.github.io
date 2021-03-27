@@ -396,6 +396,7 @@ That's why... even as I left Frau's apartment, I was still pondering when to pul
 
 ##### — Final Phase —
 <div class="h5"><a href="Phase 13.6.html">「 Heliotail Disperser 」</a></div>
+<div class="h5-white"><a href="Phase 13.6.html">「 Heliotail Disperser 」</a></div>
 
 </div>
 

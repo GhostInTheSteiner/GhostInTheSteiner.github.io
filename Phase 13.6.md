@@ -326,8 +326,7 @@ It's been a day since... Noone who can reupload? (╯︵╰,)
 <br></br>
 
 **MAGNETLOCK** <span class="twipo-handle-grey">*@Magneto342*</span>    
-Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... Uploaded the English version here  
-...
+Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... Uploaded the English version <a class="twipo-handle-blue" href="https://drive.google.com/drive/u/2/folders/1ceKLIuFrAa-oGaqfhDp1CgA-PQXgeWkt">here</a>
 <br></br>
 
 **PAPB** <span class="twipo-handle-grey">*@papb100*</span>  
@@ -364,6 +363,7 @@ Japanese people reading English localizations... Just what world do we live in? 
 
 ##### —FIN —
 <div class="h5">「 Thanks for reading! 」</div>
+<div class="h5-white">「 Thanks for reading! 」</div>
 
 </div>
 

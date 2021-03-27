@@ -161,6 +161,7 @@ Those eyes... were Akiho's eyes.
 
 ##### — Next Phase —
 <div class="h5"><a href="Phase 13.3.html">「 Heliosheath Transmitter 」</a></div>
+<div class="h5-white"><a href="Phase 13.3.html">「 Heliosheath Transmitter 」</a></div>
 
 </div>
 
