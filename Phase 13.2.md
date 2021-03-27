@@ -77,7 +77,7 @@ That's why, staring down on Misa-nee, both of us were at a loss for words. Compa
 
 <div class="text-quoted">“...do you think I saw this coming... almost ten years ago?”</div>
 
-<div class="text-italic">Was that... a smile?</div>
+Was that... <i>a smile</i>?
 
 Once again, we didn't know what to say. It felt like we just sat there for an eternity. Dumbfounded. Still staring down on Misa-nee.
 
@@ -105,7 +105,7 @@ Misa-nee suddenly began recounting on her past. Contrary to her firm voice of ju
 
 <div class="text-quoted">“...the day of the solar eclipse. When it all began...”</div>
 
-<div class="text-italic">'...the day of the solar eclipse'?</div>
+...the day of the solar eclipse?
 
 Thinking about it, I remembered the omnipresent anticipation around those eclipses. Everyone on the island was on their feet: People who left their workplaces mid-day, teachers who joined their students outside, eagerly waiting both alike. On those days we always got a lesson cancelled so we could witness them with our own eyes. Interestingly enough—even though those events were big deals—I don't think I've ever seen Misa-nee around.
 
@@ -133,7 +133,7 @@ It seems like she didn't take her sister's words too well. Indeed, I can easily 
 
 I could no longer hold back the thoughts that began to spread on the back of my mind.
 
-<div class="text-quoted">“Is this about... *Kimijima Kou*?”</div>
+<div class="text-quoted">“Is this about... <i>Kimijima Kou</i>?”</div>
 
 Upon hearing that name, a hard to judge expression appeared on Misa-nee's face. For some time after, we were engulfed by silence.
 
@@ -147,7 +147,7 @@ Her feeble voice seemed wistful as she spoke, yet I didn't miss that subtle hint
 
 As I heard that... I felt a lump forming somewhere deep inside my throat. Being asked by Misa-nee of all people—it brought back feelings, that seven years ago would have been simple to judge. Yet feelings, that seven years later might have morphed, that might have diverged...
 
-<div class="text-quoted">“...it really *does* feel like someone was meant to you... doesn't it?”</div>
+<div class="text-quoted">“...it really <i>does</i> feel like someone was meant to you... doesn't it?”</div>
 
 It wasn't up until then that I realized. My eyes... They were no longer resting on Misa-nee's. Instead, the two eyes looking back at me. Right now, in this very moment.
 
