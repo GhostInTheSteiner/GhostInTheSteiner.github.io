@@ -1,3 +1,7 @@
+<head>
+  <title>「 Heliotail Disperser 」</title>
+</head>
+
 <link rel="stylesheet" href="libs/fontawesome/css/fontawesome.min.css">
 <link rel="stylesheet" href="libs/st-action-panel/st-action-panel.css">
 
@@ -19,7 +23,7 @@
 <div class="story-chapter-phase"></div>
 <div class="story-chapter">
 
-## 「 Heliotail Disperser 」<a id="phase-136"></a>
+## 「 Heliotail Disperser 」
 ### Phase 13.6
 #### “After all... that's the Misa-nee we want to see.”
 

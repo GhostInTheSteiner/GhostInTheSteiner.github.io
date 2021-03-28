@@ -1,3 +1,7 @@
+<head>
+  <title>「 Fermi Glow Assembler 」</title>
+</head>
+
 <link rel="stylesheet" href="libs/fontawesome/css/fontawesome.min.css">
 <link rel="stylesheet" href="libs/st-action-panel/st-action-panel.css">
 
@@ -19,7 +23,7 @@
 <div class="story-chapter-phase"></div>
 <div class="story-chapter">
 
-## 「 Fermi Glow Assembler 」<a id="phase-135"></a>
+## 「 Fermi Glow Assembler 」
 ### Phase 13.5
 #### “It should work exactly the same way...”
 

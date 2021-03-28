@@ -1,3 +1,7 @@
+<head>
+  <title>「 Bow Shock Divider 」</title>
+</head>
+
 <link rel="stylesheet" href="libs/fontawesome/css/fontawesome.min.css">
 <link rel="stylesheet" href="libs/st-action-panel/st-action-panel.css">
 
@@ -19,7 +23,7 @@
 <div class="story-chapter-phase"></div>
 <div class="story-chapter">
 
-## 「 Bow Shock Divider 」<a id="phase-134"></a>
+## 「 Bow Shock Divider 」
 ### Phase 13.4
 #### “The part of my soul that's left...”
 

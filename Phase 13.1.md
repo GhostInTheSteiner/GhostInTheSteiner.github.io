@@ -1,3 +1,5 @@
+<title>test</title>
+
 <link rel="stylesheet" href="libs/fontawesome/css/fontawesome.min.css">
 <link rel="stylesheet" href="libs/st-action-panel/st-action-panel.css">
 
@@ -19,7 +21,7 @@
 <div class="story-chapter-phase"></div>
 <div class="story-chapter">
 
-## 「 Termination Shock Extender 」<a id="phase-131"></a>
+## 「 Termination Shock Extender 」
 ### Phase 13.1
 #### “It became the hopes and dreams of everyone.”
 

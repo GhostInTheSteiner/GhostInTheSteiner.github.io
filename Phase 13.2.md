@@ -1,3 +1,7 @@
+<head>
+  <title>「 Heliopause Radiator 」</title>
+</head>
+
 <link rel="stylesheet" href="libs/fontawesome/css/fontawesome.min.css">
 <link rel="stylesheet" href="libs/st-action-panel/st-action-panel.css">
 
@@ -19,7 +23,7 @@
 <div class="story-chapter-phase"></div>
 <div class="story-chapter">
 
-## 「 Heliopause Radiator 」<a id="phase-132"></a>
+## 「 Heliopause Radiator 」
 ### Phase 13.2
 #### “Of course we're meant to you...!”
 
