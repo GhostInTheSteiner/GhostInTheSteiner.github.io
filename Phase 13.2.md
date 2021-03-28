@@ -69,7 +69,7 @@ Struck speechless, both of us stared into Misa-nee's eyes. Absolute disbelief pa
 
 <div class="story-image"><img src="images/EV_MIS005B.PNG"></div>
 
-Of course, Akiho told me. About what happened on the day her sister left for Tokyo. Ever since then I knew—I knew, just what caused that huge sister complex of hers. And what fuelled her desire to finish GunBuild-1 more than anything.
+Of course, Akiho told me. About what happened on the day her sister left for Tokyo. Ever since then I knew—I knew, just what caused that absurd sister complex of hers. And what fuelled her desire to finish GunBuild-1 more than anything.
 
 That's why, staring down on Misa-nee, both of us were at a loss for words. Compared to before her breathing became a lot heavier, and its pace a lot faster. However, her strained face began to soften... and the black look disappeared from her eyes.
 
@@ -111,13 +111,13 @@ Thinking about it, I remembered the omnipresent anticipation around those eclips
 
 Looking back down on her, I realized her eyes began to turn cloudy. It felt like her mind was somewhere else—far, far away from this place...
 
-<div class="text-quoted">“...as I set them into stone. Was it faith that shaped my dreams...? Or were it dreams that shaped my faith...?”</div>
+<div class="text-quoted">“...as I set them into stone. Was it faith that shaped my dreams...? Or were those dreams what shaped my faith...?”</div>
 
-Deep inside of me. Somewhere between 'his' words and Misa-nee's actions. Something unsettling began to sprout.
+What she uttered felt abstruse, almost philosophical in meaning. As if she was questioning determinism itself, she seemed in doubt about her own choices. That's why... deep inside of me. Somewhere between 'his' words and Misa-nee's actions. Something unsettling began to sprout.
 
 <div class="text-quoted-inline">“Misa-nee... that..."</div>, I began to voice my thoughts. However, I was cut off before I even started.
 
-<div class="text-quoted">“...the people I met. Have they been written into my life...? Or were they meant for me...?”</div>
+<div class="text-quoted">“...even the people I met. Have they been written into my life...? Or were they truly meant for me...?”</div>
 
 Misa-nee went on to say something almost as cryptic. Seeing her like that, I wondered if she was still aware of her surroundings. It seemed like she entered some sort of fever dream.
 

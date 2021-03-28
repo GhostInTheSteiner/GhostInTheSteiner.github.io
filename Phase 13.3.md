@@ -161,11 +161,11 @@ Before the Robotics Club came into existence, before Mizuka-san and Mitchie beca
 
 <div class="story-image"><img src="images/EV_MIS006A.PNG"></div>
 
-<div class="text-quoted">“...the people I met.”</div>
+<div class="text-quoted">“...even the people I met.”</div>
 
 Lost in thoughts, I murmured her strange words from just now...
 
-<div class="text-quoted">“Have they been written into my life...? Or were they meant for me...?”</div>
+<div class="text-quoted">“Have they been written into my life...? Or were they truly meant for me...?”</div>
 
 It happened around that time. The days and weeks before the Robotics Club was born—right before Misa-nee entered High School.
 

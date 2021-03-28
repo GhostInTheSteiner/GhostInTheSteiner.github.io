@@ -74,7 +74,7 @@ function brightnessRefresh(currentColor) {
         $(".h5-white").show();
         $("h5").css("color", "rgb(0, 114, 145)");
         $("h3").css("color", "gray");
-        root.css("--bottomheader-color", "rgb(0, 114, 145)");
+        root.css("--bottomheader-color", "#0070C0da");
 
 
     } else {
@@ -85,12 +85,12 @@ function brightnessRefresh(currentColor) {
 
     }
 
-    document.styleSheets[0].insertRule(
-        `.story-image:before { 
-            -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-            -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-            box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
-        }`, document.styleSheets[0].cssRules.length);
+    // document.styleSheets[0].insertRule(
+    //     `.story-image:before { 
+    //         -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
+    //         -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
+    //         box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) ` + colors[currentColor][0] + `; 
+    //     }`, document.styleSheets[0].cssRules.length);
     document.styleSheets[0].insertRule(
         `.story-divider:before {
             background-image: radial-gradient(circle, ` + colors[currentColor][1] + `, transparent);
