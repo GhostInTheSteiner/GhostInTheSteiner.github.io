@@ -77,6 +77,6 @@ div.st-panel {
 }
 
 .grid-desktop {
-    /* visibility: collapse; */
+    visibility: collapse;
     max-height: 0px;
 }
