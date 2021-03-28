@@ -2,7 +2,8 @@
 
 @media only screen and (min-device-width: 768px) {
      :root {
-        --story-max-width: 870px;
+        --story-max-width-zoom: 1.0;
+        --story-max-width: calc(60em * var(--story-max-width-zoom));
         --story-min-width: 650px;
         --story-text-margin: 20px;
         --story-padding: 40px;
@@ -134,5 +135,9 @@
     .gridChild {
         flex: 0 0 50%;
         height: 4em;
+    }
+    .grid-desktop {
+        visibility: visible;
+        max-height: fit-content;
     }
 }

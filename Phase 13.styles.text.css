@@ -43,6 +43,11 @@
     text-decoration-style: dotted;
 }
 
+.text-title {
+    text-align: center;
+    font-weight: bold;
+}
+
 
 /*Necessary to avoid text size adjustments by Chrome based mobile browsers*/
 

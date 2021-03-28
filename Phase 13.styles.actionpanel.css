@@ -34,6 +34,20 @@ div.st-panel {
     height: 5em;
 }
 
+#action-width-decrease {
+    background: url("icons/width_decr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: var(--icon-size);
+}
+
+#action-width-increase {
+    background: url("icons/width_incr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: var(--icon-size);
+}
+
 #action-text-decrease {
     background: url("icons/text_decr.png");
     background-repeat: no-repeat;
@@ -60,4 +74,9 @@ div.st-panel {
     background-repeat: no-repeat;
     background-position: center;
     background-size: var(--icon-size);
+}
+
+.grid-desktop {
+    /* visibility: collapse; */
+    max-height: 0px;
 }

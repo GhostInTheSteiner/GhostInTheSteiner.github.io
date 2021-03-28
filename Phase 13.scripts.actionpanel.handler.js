@@ -22,11 +22,17 @@ var currentColor =
     colors.findIndex(_ => _[0] == root.css("--background-color").trim()) :
     parseInt(localStorage.getItem("currentColor"));
 
+var currentWidth =
+    localStorage.getItem("currentWidth") == null ?
+    Math.round(root.css("--story-max-width-zoom") * 10) / 10 :
+    parseFloat(localStorage.getItem("currentWidth"));
+
 updateLocalStorage();
 
 function updateLocalStorage() {
     localStorage.setItem("currentZoom", currentZoom);
     localStorage.setItem("currentColor", currentColor);
+    localStorage.setItem("currentWidth", currentWidth);
 }
 
 
@@ -97,6 +103,25 @@ function brightnessRefresh(currentColor) {
         }`, document.styleSheets[0].cssRules.length);
 }
 
+function readingpaneIncrease() {
+    currentWidth = Math.min(1.2, currentWidth + 0.1);
+
+    root.css("--story-max-width-zoom", currentWidth);
+    updateLocalStorage();
+}
+
+function readingpaneDecrease() {
+    currentWidth = Math.max(0.8, currentWidth - 0.1);
+
+    root.css("--story-max-width-zoom", currentWidth);
+    updateLocalStorage();
+}
+
+function readingpaneRefresh() {
+    root.css("--story-max-width-zoom", currentWidth);
+}
+
 //init
 brightnessRefresh(currentColor);
 textsizeRefresh(currentColor);
+readingpaneRefresh(currentWidth);

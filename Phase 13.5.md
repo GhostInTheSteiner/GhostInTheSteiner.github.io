@@ -55,7 +55,7 @@ Before I lost myself, I had to do at least that much. I took out my PokeCom and 
 
 Displayed on its screen was a single icon:  
 
-<div class="title">「Kimijima Report No. 0」</div>
+<div class="text-title">「Kimijima Report No. 0」</div>
 
 By now, only the original data was left.
 
