@@ -7,5 +7,7 @@ $.ajax({
 }).done(function(data) {
     var html = $(data);
     $('#actionpanel').html(html);
-    $('st-actionContainer', html).launchBtn();
+    $('st-actionContainer', html).launchBtn({
+        openDuration: 200
+    });
 });
