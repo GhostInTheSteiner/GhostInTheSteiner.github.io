@@ -52,8 +52,11 @@
 
 .story-chapter-text {
     font-size: var(--story-text-size-applied);
-    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Roboto', sans-serif;
     /* font-family: 'Cormorant Garamond', serif; */
+    /* font-family: 'Futura Bk BT', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Source Sans Pro', sans-serif; */
 }
 
 .story-chapter-phase {

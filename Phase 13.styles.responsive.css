@@ -127,7 +127,7 @@
         font-size: 1em;
     }
     .st-panel {
-        width: 8em;
+        width: 10em;
     }
     div.st-panel {
         font-size: 15px;
@@ -139,5 +139,9 @@
     .grid-desktop {
         visibility: visible;
         max-height: 124px;
+    }
+    #action-font-change {
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 }

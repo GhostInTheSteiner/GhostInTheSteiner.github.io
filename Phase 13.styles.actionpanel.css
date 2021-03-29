@@ -34,6 +34,26 @@ div.st-panel {
     height: 5em;
 }
 
+#font-name {
+    font-style: italic;
+    color: lightgray;
+}
+
+#action-font-change:hover {
+    color: white;
+}
+
+#action-font-change {
+    background-color: rgb(54, 54, 54);
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 500px;
+    /* height: 100px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 #action-width-decrease {
     background: url("icons/width_decr.png");
     background-repeat: no-repeat;

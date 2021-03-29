@@ -10,6 +10,12 @@ var colors = [
     ["#FFFFFF", "black"],
 ]
 
+var fonts = [
+    "Roboto, sans-serif",
+    "Noto Sans JP, sans-serif",
+    "Source Sans Pro, sans-serif"
+]
+
 var root = $(":root");
 
 var currentZoom =
@@ -27,12 +33,18 @@ var currentWidth =
     Math.round(root.css("--story-max-width-zoom") * 10) / 10 :
     parseFloat(localStorage.getItem("currentWidth"));
 
+var currentFont =
+    localStorage.getItem("currentFont") == null ?
+    fonts.findIndex(_ => _ == $(".story-chapter-text").css("font-family").trim()) :
+    localStorage.getItem("currentFont");
+
 updateLocalStorage();
 
 function updateLocalStorage() {
     localStorage.setItem("currentZoom", currentZoom);
     localStorage.setItem("currentColor", currentColor);
     localStorage.setItem("currentWidth", currentWidth);
+    localStorage.setItem("currentFont", currentFont);
 }
 
 
@@ -104,7 +116,7 @@ function brightnessRefresh(currentColor) {
 }
 
 function readingpaneIncrease() {
-    currentWidth = Math.min(1.2, currentWidth + 0.1);
+    currentWidth = Math.min(1.3, currentWidth + 0.1);
 
     root.css("--story-max-width-zoom", currentWidth);
     updateLocalStorage();
@@ -121,7 +133,27 @@ function readingpaneRefresh() {
     root.css("--story-max-width-zoom", currentWidth);
 }
 
+// function readingpaneRefresh() {
+//     root.css("--story-max-width-zoom", currentWidth);
+// }
+
+function fontstyleChange() {
+    currentFont++;
+    currentFont = currentFont % (fonts.length);
+
+    $(".story-chapter-text").css("font-family", fonts[currentFont]);
+    $("#font-name").text(fonts[currentFont].split(",")[0])
+    updateLocalStorage();
+}
+
+function fontstyleRefresh() {
+    $(".story-chapter-text").css("font-family", fonts[currentFont]);
+    $("#font-name").text(fonts[currentFont].split(",")[0])
+
+}
+
 //init
 brightnessRefresh(currentColor);
 textsizeRefresh(currentColor);
 readingpaneRefresh(currentWidth);
+fontstyleRefresh(currentFont);
