@@ -77,7 +77,7 @@ Of course, Akiho told me. About what happened on the day her sister left for Tok
 
 That's why, staring down on Misa-nee, both of us were at a loss for words. Compared to before her breathing became a lot heavier, and its pace a lot faster. However, her strained face began to soften... and the black look disappeared from her eyes.
 
-<div class="text-quoted-inline">“...even so."</div>, Misa-nee softly whispered. As she continued to speak, another expression formed on her face.
+<span class="text-quoted-inline">“...even so."</span>, Misa-nee softly whispered. As she continued to speak, another expression formed on her face.
 
 <div class="text-quoted">“...do you think I saw this coming... almost ten years ago?”</div>
 
@@ -119,7 +119,7 @@ Looking back down on her, I realized her eyes began to turn cloudy. It felt like
 
 What she uttered felt abstruse, almost philosophical in meaning. As if she was questioning determinism itself, she seemed in doubt about her own choices. That's why... deep inside of me. Somewhere between 'his' words and Misa-nee's actions. Something unsettling began to sprout.
 
-<div class="text-quoted-inline">“Misa-nee... that..."</div>, I began to voice my thoughts. However, I was cut off before I even started.
+<span class="text-quoted-inline">“Misa-nee... that..."</span>, I began to voice my thoughts. However, I was cut off before I even started.
 
 <div class="text-quoted">“...even the people I met. Have they been written into my life...? Or were they truly meant for me...?”</div>
 

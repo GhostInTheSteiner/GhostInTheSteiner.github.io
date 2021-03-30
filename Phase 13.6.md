@@ -47,7 +47,7 @@ Leaving GunBuild-1 aside, my thoughts drifted off to Misa-nee.
 
 On that day, right after the paramedics picked her up, she was transported to the General Tanegashima Hospital. As direct relative, Akiho has already been allowed to see her. And indeed— 
 
-<div class="text-italic">“I'll visit... I'll visit as often as I can, as soon as possible...”</div>
+<div class="text-italic-quoted">“I'll visit... I'll visit as often as I can, as soon as possible...”</div>
 
 Whenever she had enough time on her hands, she would get on her scooter and head right to Minamitane. With the graduation ceremony being mere days ahead there weren't a lot of reasons to still visit school—so she stopped by almost each day. I myself, however...
 
@@ -79,7 +79,7 @@ As my words reached her, a gloomy shadow passed over her eyes.
 
 Apparently, she was still in some sort of coma. Occasionally she would attempt to mumble something, but... according to Akiho, she wasn't able to hold a proper conversation. So all she could do was sit by her side and listen.
 
-<div class="text-italic">“...you've only... ever been average.”</div>
+<div class="text-italic-quoted">“...you've only... ever been average.”</div>
 
 Back then—even if just for a few moments— she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
 

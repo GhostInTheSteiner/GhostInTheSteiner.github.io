@@ -51,15 +51,15 @@ Fortunately Super GunBuild-1 took over most of the attention at some point, givi
 
 Without the shutters being opened there was an absolute lack of natural sunlight. Usually, I would have turned on the lights right away. However... it seemed like someone else already did so. That's right—
 
-<div class="text-quoted">“It's why... I wanna stay right by her side, too. Until she wakes up...”</div>
+<div class="text-italic-quoted">“It's why... I wanna stay right by her side, too. Until she wakes up...”</div>
 
-Almost a decade ago—right here, on this very island—'her' idea was born. In fact, not merely an idea... 'Her' wish went far beyond that.
+Almost a decade ago—right here, on this very island—'her' idea was born. In fact, not merely an idea... Her wish went far beyond that.
 
-<div class="text-quoted">“And when she does... I'll tell her.”</div>
+<div class="text-italic-quoted">“And when she does... I'll tell her.”</div>
 
-No matter how ambitious, no matter how foolish. 'She' continued to pursue her goals. Following the dream that sparked from her wish. And in the end—as that dream crossed the border of reality—'she' was no longer on her own.
+No matter how ambitious, no matter how foolish. 'She' continued to pursue her goals. Following the dream that sparked from her wish. And in the end—as that dream crossed the border of reality—she was no longer on her own.
 
-<div class="text-quoted">“I love you, Big Sis.”</div>
+<div class="text-italic-quoted">“I love you, Big Sis.”</div>
 
 In this very moment... the person caught up in that girls' dreams the most. She was right here.
 
@@ -95,7 +95,7 @@ For one last time, Akiho and I wanted to bring Misa-nee to the abandoned airport
 
 A dream, that must have seemed forgotten and buried ever since the day she left.
 
-<div class="text-quoted-inline">“I wonder... will you ever see this place again?"</div>, Akiho whispered, gently holding Misa-nee's right hand.
+<span class="text-quoted-inline">“I wonder... will you ever see this place again?"</span>, Akiho whispered, gently holding Misa-nee's right hand.
 
 Something wet dropped onto her nose, leaving behind a moist trail as it slowly moved down her cheek. I looked up... was Akiho crying?
 

@@ -1,8 +1,17 @@
 :root {
-    --margin-text-italic: 30px;
-    /* --margin-text-quoted: 28px; */
-    --margin-text-quoted: 30px;
-    --weight-text-quoted: 500;
+    --vmargin-text-italic: 30px;
+    --vmargin-text-quoted: 30px;
+    --lmargin-text-quoted: 10px;
+    --weight-text-normal: 300;
+    --weight-text-quoted: 400;
+    --weight-text-italic: bold;
+    --weight-text-italic-quoted: normal;
+    --indent-paragraph: 0px;
+}
+
+p {
+    font-weight: var(--weight-text-normal);
+    text-indent: var(--indent-paragraph);
 }
 
 
@@ -17,24 +26,33 @@
 /* REDO */
 
 .text-quoted {
-    margin-left: 10px;
+    margin-left: var(--lmargin-text-quoted);
     font-weight: var(--weight-text-quoted);
-    margin-top: var(--margin-text-quoted);
-    margin-bottom: var(--margin-text-quoted);
+    margin-top: var(--vmargin-text-quoted);
+    margin-bottom: var(--vmargin-text-quoted);
 }
 
 .text-quoted-inline {
     font-weight: var(--weight-text-quoted);
-    display: inline-block;
+    display: inline;
 }
 
 .text-italic {
-    margin-left: 10px;
+    /* margin-left: 10px; */
     font-style: italic;
-    font-weight: bold;
-    margin-left: 10px;
-    margin-top: var(--margin-text-italic);
-    margin-bottom: var(--margin-text-italic);
+    font-weight: var(--weight-text-italic);
+    /* margin-left: 10px; */
+    text-align: center;
+    margin-top: var(--vmargin-text-italic);
+    margin-bottom: var(--vmargin-text-italic);
+}
+
+.text-italic-quoted {
+    font-style: italic;
+    margin-left: var(--lmargin-text-quoted);
+    font-weight: var(--weight-text-italic-quoted);
+    margin-top: var(--vmargin-text-quoted);
+    margin-bottom: var(--vmargin-text-quoted);
 }
 
 .text-glossary {
@@ -52,6 +70,8 @@
 /*Necessary to avoid text size adjustments by Chrome based mobile browsers*/
 
 p,
+.text-quoted-inline,
+.text-italic-quoted,
 .text-italic,
 .text-quoted,
 .text-centered,

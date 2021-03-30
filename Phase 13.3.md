@@ -35,7 +35,7 @@ The old airport's runway. A chilly morning wind was blowing over the terrain, ca
 
 Upon hearing my request, it felt like Akiho was lost in thought... Like she heard the words, but hasn't realized their meaning yet.
 
-<div class="text-quoted-inline">“Aki-chan?”</div>, I asked, in an effort to bring her back to reality.
+<span class="text-quoted-inline">“Aki-chan?”</span>, I asked, in an effort to bring her back to reality.
 
 <div class="text-quoted">“Oh, ah! With me...? Are you sure...?”</div>
 
@@ -59,7 +59,7 @@ Ultimately giving in to the words she heard, and accepting the feelings she held
 
 <div class="story-divider"></div>
 
-<div class="text-italic">“Have you ever been blessed by any of it?”</div>
+<div class="text-italic-quoted">“Have you ever been blessed by any of it?”</div>
 
 Certainly, I kept playing it cool. Casual enough that it felt like our usual chitchat, yet careful enough to not let her get a read on me. Eventually following the unfortunate patterns Kill-Ballad brought upon me...
 
@@ -83,7 +83,7 @@ Amongst all of that, would we really take our relationship anywhere? Even thinki
 
 Right then—a series of loud beeping sounds brought me back to reality. Resounding throughout the entire hangar, they put an end to the illusion the two of us have been caught up in.
 
-<div class="text-quoted-inline">“Oh, sorry... that's mine..."</div>, Akiho excused herself, pulling up her PokeCom. She then began to read something, probably a text message.
+<span class="text-quoted-inline">“Oh, sorry... that's mine..."</span>, Akiho excused herself, pulling up her PokeCom. She then began to read something, probably a text message.
 
 As she looked up again, her face took on a regretful look.
 
@@ -181,7 +181,7 @@ Where she went, whom she visited and why she did so—she never revealed any of 
 
 It wasn't before seven full years passed that I should learn about her relation to Kimijima Kou. The mastermind behind the <span id="hdproject" class="text-glossary">Human Domestication Project</span>—an inhuman attempt at reducing the world population to one billion people.
 
-<div class="text-italic">“Sometimes... ignorance is bliss...”</div>
+<div class="text-italic-quoted">“Sometimes... ignorance is bliss...”</div>
 
 Even Mizuka-san... the person closest to Misa-nee. Did she ever know? Has Misa-nee ever told her?
 
@@ -191,7 +191,7 @@ A decade ago, being a mere child—I foolishly believed whatever I felt like. Wh
 
 Today, however... with the puzzle of Misa-nee's past right in front of me. Even with most of it assembled, even with its image almost obvious—even so, I felt the most important parts were still missing.
 
-<div class="text-italic">“...the day of the solar eclipse. When it all began...”</div>
+<div class="text-italic-quoted">“...the day of the solar eclipse. When it all began...”</div>
 
 Back then... one of those parts, whichever it was. It must have changed her. Irrevocably shaping another person. Ultimately causing hopes to flourish, and dreams to rise.
 

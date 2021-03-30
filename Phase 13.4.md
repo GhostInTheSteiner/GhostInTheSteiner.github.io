@@ -135,11 +135,11 @@ High up in the sky, the sun came out from beneath the orange-colored clouds. Bat
 
 And just in this moment, right before Misa-nee was taken into the ambulance. Whether it were Akiho's words that reached her, or GunBuild's image that affected her. For some reason—a wistful smile appeared on her libs, and a peaceful expression formed on her face.
 
-<div class="text-italic">“...back then, with that decision.”</div>
+<div class="text-italic-quoted">“...back then, with that decision.”</div>
 
 I watched as the ambulance doors were being closed. As I just stood there—unable to move an inch—her words from right now kept echoing through my mind.
 
-<div class="text-italic">“...I might have truly been... The master of my fate.”</div>
+<div class="text-italic-quoted">“...I might have truly been... The master of my fate.”</div>
 
 Headlights flickered on, an engine started roaring. The ambulance's wheels slowly began turning, causing the vehicle to start moving down the runway. Gradually increasing in speed its shape became smaller by the second.
 
@@ -159,7 +159,7 @@ I headed out.
 
 Leaving this old and abandoned hangar behind. Setting out into the twilight, with a certain destination in mind—and a clear goal ahead.
 
-<div class="text-italic">“...the part of my soul that's left, ...”</div>
+<div class="text-italic-quoted">“...the part of my soul that's left, ...”</div>
 
 What she had left me with. The very last bit of Misa-nee's self. A missing piece, eventually completing the strange puzzle of her mysterious past.
 
