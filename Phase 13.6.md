@@ -86,7 +86,7 @@ Apparently, she was still in some sort of coma. Occasionally she would attempt t
 
 <div class="text-italic-quoted">“...you've only... ever been average.”</div>
 
-Back then—even if just for a few moments— she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
+Back then—even if just for a few moments—she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
 
 Just how many days would pass by until she woke up? And the very moment her eyes were about to open... just what would remain—of that boastful and incredibly haughty Misa-nee, the two of us came to like that much?
 
