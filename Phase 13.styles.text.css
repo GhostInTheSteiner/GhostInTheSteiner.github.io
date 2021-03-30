@@ -1,11 +1,11 @@
 :root {
     --vmargin-text-italic: 30px;
     --vmargin-text-quoted: 30px;
-    --lmargin-text-quoted: 10px;
-    --weight-text-normal: 300;
+    --lmargin-text-quoted: 0px;
+    --weight-text-normal: 400;
     --weight-text-quoted: 400;
     --weight-text-italic: bold;
-    --weight-text-italic-quoted: normal;
+    --weight-text-italic-quoted: 400;
     --indent-paragraph: 0px;
 }
 
@@ -38,18 +38,19 @@ p {
 }
 
 .text-italic {
-    /* margin-left: 10px; */
+    margin-left: 10px;
     font-style: italic;
     font-weight: var(--weight-text-italic);
     /* margin-left: 10px; */
-    text-align: center;
+    /* text-align: center; */
     margin-top: var(--vmargin-text-italic);
     margin-bottom: var(--vmargin-text-italic);
 }
 
 .text-italic-quoted {
     font-style: italic;
-    margin-left: var(--lmargin-text-quoted);
+    /* margin-left: var(--lmargin-text-quoted); */
+    margin-left: 10px;
     font-weight: var(--weight-text-italic-quoted);
     margin-top: var(--vmargin-text-quoted);
     margin-bottom: var(--vmargin-text-quoted);
