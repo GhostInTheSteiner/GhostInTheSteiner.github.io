@@ -54,7 +54,7 @@ Yet, that's exactly why...
 
 <div class="text-quoted">“It has to be you, Aki-chan.”</div>
 
-I confirmed it once again—purging doubt from my words, and blocking each chance to escape. Eventually driving Akiho into a corner, pressuring for an answer. Thus, as a result...
+I confirmed it once again—purging doubt from my words, and pressuring for an answer. Eventually driving Akiho into a corner, leaving no way out. Thus, as a result...
 
 <div class="story-image"><img src="images/EV_AKI022A.PNG"></div>
 
@@ -90,7 +90,7 @@ Right then—a series of loud beeping sounds brought me back to reality. Resound
 
 <span class="text-quoted-inline">“Oh, sorry... that's mine..."</span>, Akiho excused herself, pulling up her PokeCom. She then began to read something, probably a text message.
 
-As she looked up again, her face took on a regretful look.
+As she looked up again, her face took on a regretful expression.
 
 <div class="text-quoted">“What's up?”</div>
 
@@ -108,7 +108,7 @@ Her eyes carried a gloomy look as she spoke, and her voice seemed to be on the v
 
 <div class="text-quoted">“...that's impossible.”</div>
 
-As that feeble whisper reached my ears, I realized her gaze was directed downwards—resting somewhere on the bleak concrete behind Misa-nee's body.
+As that faint whisper reached my ears, I realized her gaze was directed downwards—resting somewhere on the bleak concrete behind Misa-nee's body.
 
 <div class="text-quoted">“...impossible? Why?”</div>
 
@@ -158,7 +158,7 @@ Upon hearing them...
 
 Misa-nee remained silent. Her breathing unchanged, her face still blank. And perhaps that was exactly why... I felt, that Mizuka-san's message must have reached her.
 
-Quoting Mizuka-san got me thinking. About ten years ago... About who Misa-nee used to be.
+Quoting Mizuka-san got me thinking. About ten years ago... And about who Misa-nee used to be.
 
 To me, she was that unbeatable wall I sought to overcome. A brutal opponent I challenged over and over again. The rival that should ultimately define my own self, and my own ambitions.
 
@@ -170,11 +170,11 @@ Before the Robotics Club came into existence, before Mizuka-san and Mitchie beca
 
 <div class="story-image"><img src="images/EV_MIS006A.PNG"></div>
 
-<div class="text-quoted">“...even the people I met.”</div>
+<div class="text-italic-quoted">“...even the people I met.”</div>
 
 Lost in thoughts, I murmured her strange words from just now...
 
-<div class="text-quoted">“Have they been written into my life...? Or were they truly meant for me...?”</div>
+<div class="text-italic-quoted">“Have they been written into my life...? Or were they truly meant for me...?”</div>
 
 It happened around that time. The days and weeks before the Robotics Club was born—right before Misa-nee entered High School.
 

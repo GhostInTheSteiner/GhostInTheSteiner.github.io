@@ -91,7 +91,7 @@ Right after the battle, the two of us made a decision. Had we called an ambulanc
 
 For one last time, Akiho and I wanted to bring Misa-nee to the abandoned airport hangar. To the very place where the Robotics Club was born. If she were to wake up, we wanted her to remember... 
 
-<div class="text-italic">'That' dream.</div>
+*'That* dream.
 
 A dream, that must have seemed forgotten and buried ever since the day she left.
 
@@ -131,7 +131,7 @@ That was as much as I could say, before...
 
 <div class="text-quoted">“Kai.”</div>
 
-A sharp word cut me off mid-sentence. As if it cut straight through my throat, what I had left to say became stuck in inside. That voice—
+A sharp word cut me off mid-sentence. As if it sliced straight through my throat, what I had left to say became stuck in inside. That voice—
 
 </div>
 </div>
