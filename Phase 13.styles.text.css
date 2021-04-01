@@ -47,7 +47,7 @@ p {
     margin-bottom: var(--vmargin-text-italic);
 }
 
-.text-italic-quoted {
+.text-italic .text-italic-quoted {
     font-style: italic;
     /* margin-left: var(--lmargin-text-quoted); */
     margin-left: 10px;

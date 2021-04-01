@@ -210,7 +210,7 @@ Quite obviously, she was trying to evade the question.
 
 <div class="text-quoted">“How couldn't I worry unless I know who it is...?!”</div>
 
-Right then, a sudden sound echoed throughout the room. Apparently it came from Frau's PokeCom, that still was in her hands. Upon hearing the notification, she unlocked the device's screen—and began to read some kind of mail.
+Right then, a sudden sound echoed throughout the room. Apparently it came from Frau's PokeCom, that was still in her hands. Upon hearing the notification, she unlocked the screen—and began to read some kind of mail.
 
 <div class="text-quoted">“'M-My 2D wives longed for my presence'. W-What a legit excuse, lol.”</div>
 
@@ -230,7 +230,7 @@ A low voice came from right inside my head.
 
 I jumped back in shock, as I realized Frau whispered straight into my ear.
 
-<div class="text-quoted">“J--J-Just what are you gonna do...? L-Leak my hidden secrets on @channel's f-filthy boards...?! S-Steal Kill-Ballads u-u-unpublished cheats...?!”</div>
+<div class="text-quoted">“J-J-Just what are you gonna do...? L-Leak my hidden secrets on @channel's f-filthy boards...?! S-Steal Kill-Ballads u-unpublished cheats...?!”</div>
 
 Still struggling to recover from that sudden voice, I ignored her absurd accusations. After reading the mail's sender, I couldn't let her off the hook that easily.
 
@@ -252,7 +252,7 @@ That's right...
 
 A few days ago—on the same day me and Akiho were in the hangar with Misa-nee—I went to her, asking whether she could do me that one favour. Even so, I haven't revealed Misa-nee's request to Frau yet.
 
-<div class="text-quoted">“Wh-Where's the original at, anyway?”</div>
+<div class="text-quoted">“W-Where's the original at, anyway?”</div>
 
 Hearing her question, I listened up.
 
@@ -326,7 +326,7 @@ However, she didn't appear to listen...
 
 <div class="text-quoted">“Th-This scene... It's totes cosplay content. Duhuhu... Y-Yashio-senpai, go get Four Eyes...! Listen to your inner demons...! Succumb to the devil's choir...!”</div>
 
-Like hell I would...
+*Like hell I would!*
 
 <div class="text-quoted">“Ko—na—chan.”</div>
 
@@ -382,13 +382,13 @@ We could take advantage of it.
 
 After all... the reports worked based on the principle of propaganda. Causing mass-hysteria everywhere, by flooding the world with their apparent truth. Resulting in individual believes to vanish, as they joined the opinion that spread amongst the masses.
 
-In the end, it wasn't merely due to Misa-nee's request. Even without it, I would have shared her feelings. That's why, eventually, I decided to go here. Pay that oddly perverted girl right in front of me just another visit.
+In the end, it wasn't merely due to Misa-nee's request. Even without it I would have shared her feelings. That's why, eventually, I decided to go here. And pay that oddly perverted girl right in front of me just another visit.
 
 Because... despite her quirks, it still held true Frau was a genius programmer. Whether outsourced or not—without her help, I wouldn't ever have had the chance.
 
 <div class="text-quoted">“Thank you, Kona-chan.”</div>
 
-After expressing my gratitude, I accepted the transmission. With this, Misa-nee's past was back in my hands. And responsibility for it rested upon my own two shoulders. 
+After expressing my gratitude, I accepted the transmission. With this Misa-nee's past was back in my hands. And responsibility for it rested upon my own two shoulders. 
 
 That's why... even as I left Frau's apartment, I was still pondering when to pull the trigger.
 

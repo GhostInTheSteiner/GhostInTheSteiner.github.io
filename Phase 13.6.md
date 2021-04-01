@@ -33,7 +33,7 @@
 
 I stood at the empty airport apron. The hustle and bustle of a few days ago completely vanished, leaving behind a silent and peaceful atmosphere. Somewhere in the distance I could hear the leaves of trees rustling in the cold morning winds.
 
-Right after leaving Frau's room I decided to come here. To the place that should become my last opportunity to spend time Misa-nee. At least... for a while to come.
+Right after leaving Frau's room, I decided to come here. To the very same place that should become my last opportunity to spend time Misa-nee. At least... for a while to come.
 
 Super GunBuild-1—proudly standing here just a few days ago—was now nowhere to be found. That's because—
 
@@ -45,15 +45,15 @@ Not that I particularly cared about what happened to Super GunBuild-1 now. Perha
 
 Leaving GunBuild-1 aside, my thoughts drifted off to Misa-nee.
 
-On that day, right after the paramedics picked her up, she was transported to the General Tanegashima Hospital. As direct relative, Akiho has already been allowed to see her. And indeed— 
+On that day—right after the paramedics picked her up—she was transported to the General Tanegashima Hospital. As direct relative, Akiho has already been allowed to see her. And indeed— 
 
 <div class="text-italic-quoted">“I'll visit... I'll visit as often as I can, as soon as possible...”</div>
 
 Whenever she had enough time on her hands, she would get on her scooter and head right to Minamitane. With the graduation ceremony being mere days ahead there weren't a lot of reasons to still visit school—so she stopped by almost each day. I myself, however...
 
-Even now, several days after our battle—I haven't found the courage to do so. The way I've seen Misa-nee in that abandoned airport hangar—her mind barely conscious, her thoughts more lost in a delirium than connecting with the world around her. It was that exact same way that I kept her on my mind ever since. An image that I still wasn't able to let go off.
+Even now, several days after our battle... I haven't found the courage to do so. The way I've seen Misa-nee in that abandoned airport hangar—her mind barely conscious, her thoughts more lost in a delirium than connecting with the world around her. It was that exact same way that I kept her on my mind ever since. An image that I still wasn't able to let go off.
 
-Of course, I wanted to visit her. After all... Misa-nee still meant a lot to me, just like she did to Akiho. So just today—I finally made my decision. Early this morning, right before visiting Frau, I picked up my scooter and set out for the hospital. In the dim light right before sunrise its bleak facade almost seemed hostile as I approached the entrance.
+Of course, I wanted to visit her. After all... Misa-nee still meant a lot to me, just like she did to Akiho. So just today I finally made my decision. Early this morning, right before visiting Frau, I picked up my scooter and set out for the hospital. In the dim light right before sunrise its bleak facade almost seemed hostile as I approached the entrance.
 
 Even though visiting hours already started, I was still worried about coming at this time of day. Except for the hospital staff I came across no one else as I walked through the building's endless corridors. To avoid bothersome questions I refrained from asking—so it took me a while to find Misa-nee's room.
 
@@ -81,9 +81,9 @@ Apparently, she was still in some sort of coma. Occasionally she would attempt t
 
 <div class="text-italic-quoted">“...you've only... ever been average.”</div>
 
-Back then—even if just for a few moments—she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
+Back then—even if it was just for a few moments—she seemed like her past self. Having returned to the very same person we knew ever since our childhood. Now, however... Misa-nee appeared a lot more distant than ever before.
 
-Just how many days would pass by until she woke up? And the very moment her eyes were about to open... just what would remain—of that boastful and incredibly haughty Misa-nee, the two of us came to like that much?
+Just how many days would pass by until she woke up? And the very moment her eyes were about to open: Just what would remain of that boastful and incredibly haughty Misa-nee, the two of us came to like that much?
 
 Shaking of my memories, I took out my PokeCom and opened the documents viewer.
 
@@ -203,7 +203,7 @@ Wait... WAIT! So that wasn't actually a troll? I've seen one of those reports ri
 <br></br>
 
 **DJMAZ** <span class="twipo-handle-grey">*@djmaz11*</span>  
-<span class="twipo-handle-blue">@EnderJohnson</span> too bad... Was already looking forward for another scavenger hunt :sad:
+<span class="twipo-handle-blue">@EnderJohnson</span> too bad... Was already looking forward to another scavenger hunt :sad:
 <br></br>
 
 **DaSH** <span class="twipo-handle-grey">*@Dash*</span>    

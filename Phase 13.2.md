@@ -49,7 +49,7 @@ After all—her ambitions just like her efforts sparked from a single person. An
 
 <div class="text-quoted">“...Aki.”</div>
 
-A faint whisper cut her off, putting an end to Akiho's mindless anecdote about GunBuild-1. The increasing excitement on her face vanished, and became replaced by an expression of uncertainty.
+A faint whisper cut her off, putting an end to Akiho's mindless anecdote about GunBuild-1. The increasing excitement on her face vanished, and became replaced by an expression of sudden uncertainty.
 
 <div class="text-quoted">“...no matter... what you do...”</div>
 
@@ -131,7 +131,7 @@ I started another attempt at putting my thoughts into words. This time, it was A
 
 <div class="text-quoted">“What do you mean...? Of course we're meant to you...!”</div>
 
-It seems like she didn't take her sister's words too well. Indeed, I can easily imagine how that was the very last thing she wanted to hear from Misa-nee right now.
+It seems like she didn't take her sister's words too well. Indeed—I can easily imagine how that was the very last thing she wanted to hear from Misa-nee right now.
 
 <div class="text-quoted">“Hey, Misa-nee. Is this about... 'him'?”</div>
 

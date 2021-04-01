@@ -81,7 +81,7 @@ Right here. Right in front of me. As if replying to them...
 
 Misa-nee went on. Her eyes still cloudy, her gaze a blank stare resting on some part of the ceiling.
 
-<div class="text-quoted">“...I might have truly been... The master of my fate.”</div>
+<div class="text-quoted">“...I might have truly been... 'the master of my fate'.”</div>
 
 Right after... a piercingly loud screeching noise broke the silence. Seemingly omnipresent, it echoed throughout the entire hangar. It wasn't before a few seconds passed that I realized the roller shutters began to open. The bright daylight made me lose my sight for a moment.
 
@@ -95,7 +95,7 @@ After reflexively closing my eyes, Misa-nee's fading voice resounded somewhere i
 
 Misa-nee's whisper nearly drowned in the noise, causing me to almost miss her words. Upon hearing her voice, I tried to open my eyes again.
 
-<div class="text-italic">Just what was she trying to get at...?</div>
+<div class="text-italic-quoted">*Just what was she trying to get at...?*</div>
 
 Right in front of me, I could make out the shapes of three man. Standing next to Misa-nee's frail limbs they began to lift up her body, aiming for a stretcher right beside her. 
 
@@ -109,7 +109,7 @@ And despite the short moment she remained in my ears reach. Despite her cryptic 
 
 My eyes kept following her. Through the hangar's enormous gates, right out into a giant crowd of people. One that kept on laughing, and kept on cheering.
 
-And amongst it... countless children, gazing up to the crystallization of our blood and tears. Overwhelmed by the manifestation of our hopes and dreams. Even Doc, who stood right next to his crane, carried a warm smile on his face.
+And amongst it all... countless children, gazing up to the crystallization of our blood and tears. Overwhelmed by the manifestation of our hopes and dreams. Even Doc, who stood right next to his crane, carried a warm smile on his face.
 
 And all of that... due to her.
 
@@ -139,7 +139,7 @@ And just in this moment, right before Misa-nee was taken into the ambulance. Whe
 
 I watched as the ambulance doors were being closed. As I just stood there—unable to move an inch—her words from right now kept echoing through my mind.
 
-<div class="text-italic-quoted">“...I might have truly been... The master of my fate.”</div>
+<div class="text-italic-quoted">“...I might have truly been... 'the master of my fate'.”</div>
 
 Headlights flickered on, an engine started roaring. The ambulance's wheels slowly began turning, causing the vehicle to start moving down the runway. Gradually increasing in speed its shape became smaller by the second.
 
