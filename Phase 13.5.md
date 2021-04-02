@@ -80,9 +80,9 @@ The part of my soul that's left.</div>
 
 <div class="text-italic-bold">...it may have found a place to rest.</div>
 
-<div class="story-divider story-divider-addedmargintop"></div>
+<div class="story-divider story-divider-custommargin1"></div>
 
-As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.
+<p class="text-lessmargintop">As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.</p>
 
 <div class="story-image"><img src="images/frau.png"></div>
 

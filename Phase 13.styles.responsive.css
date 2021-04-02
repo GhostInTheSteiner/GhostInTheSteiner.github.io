@@ -78,8 +78,17 @@
         -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
         box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color); */
     }
+    .story-divider {
+        position: relative;
+        margin-top: 90px;
+        height: 85px;
+    }
     .story-divider-addedmargintop {
-        margin-top: 80px;
+        margin-top: 100px;
+    }
+    .story-divider-custommargin1 {
+        margin-top: 100px;
+        height: 85px;
     }
     .text-lessmargintop {
         margin-top: 10px !important;

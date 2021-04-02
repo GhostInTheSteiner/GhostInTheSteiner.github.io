@@ -57,7 +57,7 @@ She gave up.
 
 Ultimately giving in to the words she heard, and accepting the feelings she held. Just this once, for the very first time in our lifes—our unspoken desires should meet each other.
 
-<div class="story-divider"></div>
+<div class="story-divider story-divider-custommargin1"></div>
 
 <div class="text-italic-quoted text-nomargintop">“Have you ever been blessed by any of it?”</div>
 
