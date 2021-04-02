@@ -102,6 +102,11 @@
     height: 130px;
 }
 
+.story-divider-custommargin2 {
+    margin-top: 120px;
+    height: 110px;
+}
+
 .story-divider:before {
     content: "";
     position: absolute;

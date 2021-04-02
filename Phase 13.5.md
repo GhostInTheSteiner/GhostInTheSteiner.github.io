@@ -94,7 +94,7 @@ Still fixated on that code, not paying the slightest attention to what happened 
  
 <div class="text-quoted">“Huh... what?”</div>
 
-I let out my question, while putting the two bags I've been carrying to the ground—thankful for an opportunity to finally let go of the heavy weight.
+I sent out my question, while putting the two bags I've been carrying to the ground—thankful for an opportunity to finally let go of the heavy weight.
 
 <div class="text-quoted">“Gaaaah!”</div>
 

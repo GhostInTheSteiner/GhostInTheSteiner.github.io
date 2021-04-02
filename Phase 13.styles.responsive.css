@@ -16,8 +16,8 @@
         --story-image-margin-bottom: 10px;
         --nextphase-text-size-top: 1.5em;
         --nextphase-text-size-bottom: 2.5em;
-        --margin-text-italic: 30px;
-        --margin-text-quoted: 20px;
+        --margin-text-italic: 1.3em;
+        --margin-text-quoted: 1em;
         --font-color: #fdfdfd;
         /* --background-color: #1a1a1a; */
         --background-color: black;
@@ -89,6 +89,10 @@
     .story-divider-custommargin1 {
         margin-top: 100px;
         height: 85px;
+    }
+    .story-divider-custommargin2 {
+        margin-top: 90px;
+        height: 90px;
     }
     .text-lessmargintop {
         margin-top: 10px !important;

@@ -1,10 +1,10 @@
 :root {
-    --vmargin-text-italic: 30px;
+    --vmargin-text-italic: 1.3em;
     --weight-text-italic: 400;
     --weight-text-italic-bold: bold;
     --weight-text-italic-quoted: 400;
     --lmargin-text-italic: 10px;
-    --vmargin-text-quoted: 30px;
+    --vmargin-text-quoted: 1em;
     --lmargin-text-quoted: 0px;
     --weight-text-quoted: 400;
     --weight-text-normal: 400;
@@ -65,8 +65,8 @@ p {
     /* margin-left: var(--lmargin-text-quoted); */
     margin-left: var(--lmargin-text-italic);
     font-weight: var(--weight-text-italic-quoted);
-    margin-top: var(--vmargin-text-quoted);
-    margin-bottom: var(--vmargin-text-quoted);
+    margin-top: var(--vmargin-text-italic);
+    margin-bottom: var(--vmargin-text-italic);
 }
 
 .text-glossary {
