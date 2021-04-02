@@ -75,10 +75,10 @@ I removed the icon from my screen. And once I confirmed the data was gone, I bre
 
 In the end, would you be able to kill me? Such a thing would make me incredibly happy. Just... remember to pay this place one last visit. Because—
 
-<div class="text-italic-bold">What little of myself I kept.<br>
-The part of my soul that's left.</div>
+<div class="text-italic">What little bit of myself I kept.<br>
+A single part of my soul that's left.</div>
 
-<div class="text-italic-bold">...it may have found a place to rest.</div>
+<div class="text-italic">...it may have found a safe place to rest.</div>
 
 <div class="story-divider story-divider-custommargin1"></div>
 
