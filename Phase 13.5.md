@@ -31,7 +31,7 @@
 
 <div class="story-image"><img src="images/rain.png"></div>
 
-Pouring rain and a strong sea breeze were in the air. During the winter, the winds were always blowing strong over Tanegashima's rural grounds. The air temperature didn't drop much, but due to the strong gusts it felt quite cold... Especially here, on the southern coast.
+<p class="text-lessmargintop">Pouring rain and a strong sea breeze were in the air. During the winter, the winds were always blowing strong over Tanegashima's rural grounds. The air temperature didn't drop much, but due to the strong gusts it felt quite cold... Especially here, on the southern coast.</p>
 
 <div class="text-quoted">“<span id="gejinee" class="text-glossary">Sister Centipede</span>, you know Kai and Aki, right?”</div>
 
@@ -75,12 +75,12 @@ I removed the icon from my screen. And once I confirmed the data was gone, I bre
 
 In the end, would you be able to kill me? Such a thing would make me incredibly happy. Just... remember to pay this place one last visit. Because—
 
-<div class="text-italic">What little of myself I kept.<br>
+<div class="text-italic-bold">What little of myself I kept.<br>
 The part of my soul that's left.</div>
 
-<div class="text-italic">...it may have found a place to rest.</div>
+<div class="text-italic-bold">...it may have found a place to rest.</div>
 
-<div class="story-divider"></div>
+<div class="story-divider story-divider-addedmargintop"></div>
 
 As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.
 

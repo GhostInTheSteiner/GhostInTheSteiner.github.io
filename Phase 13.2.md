@@ -69,8 +69,7 @@ Upon hearing that word, Akiho let out an audible gasp.
 
 Struck speechless, both of us stared into Misa-nee's eyes. Absolute disbelief painted on our faces.
 
-<div class="text-italic">Just like back then...</div>
-
+<div class="text-italic-bold">Just like back then...</div>
 <div class="story-image"><img src="images/EV_MIS005B.PNG"></div>
 
 Of course, Akiho told me. About what happened on the day her sister left for Tokyo. Ever since then I knew—I knew, just what caused that absurd sister complex of hers. And what fuelled her desire to finish GunBuild-1 more than anything.
@@ -109,7 +108,7 @@ With Akiho's still sobbing face over hers, Misa-nee suddenly began recounting on
 
 <div class="text-quoted">“...the day of the solar eclipse. When it all began...”</div>
 
-<div class="text-italic-quoted">...the day of the solar eclipse?*</div>
+<div class="text-italic-quoted">...the day of the solar eclipse?</div>
 
 Thinking about it, I remembered the omnipresent anticipation around those eclipses. Everyone on the island was on their feet: People who left their workplaces mid-day, teachers who joined their students outside, eagerly waiting both alike. On those days we always got a lesson cancelled so we could witness them with our own eyes. Interestingly enough—even though those events were big deals—I don't think I've ever seen Misa-nee around.
 

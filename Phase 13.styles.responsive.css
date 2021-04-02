@@ -12,6 +12,8 @@
         --story-border-color: rgb(0, 114, 145);
         --story-text-size: 1.1em;
         --story-text-size-applied: calc(var(--story-text-size) * var(--story-text-zoom));
+        --story-image-margin-top: 40px;
+        --story-image-margin-bottom: 10px;
         --nextphase-text-size-top: 1.5em;
         --nextphase-text-size-bottom: 2.5em;
         --margin-text-italic: 30px;
@@ -67,10 +69,20 @@
         /* margin-left: var(--story-text-margin);
         margin-right: var(--story-text-margin); */
     }
+    .story-image {
+        margin-top: var(--story-image-margin-top);
+        padding-bottom: var(--story-image-margin-bottom);
+    }
     .story-image:before {
         /* -moz-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
         -webkit-box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color);
         box-shadow: inset 0px 0px var(--story-image-blur-radius) var(--story-image-spread-radius) var(--background-color); */
+    }
+    .story-divider-addedmargintop {
+        margin-top: 80px;
+    }
+    .text-lessmargintop {
+        margin-top: 10px !important;
     }
     .text-quoted {
         margin-top: var(--margin-text-quoted);

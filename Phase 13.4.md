@@ -95,7 +95,7 @@ After reflexively closing my eyes, Misa-nee's fading voice resounded somewhere i
 
 Misa-nee's whisper nearly drowned in the noise, causing me to almost miss her words. Upon hearing her voice, I tried to open my eyes again.
 
-<div class="text-italic-quoted">*Just what was she trying to get at...?*</div>
+<div class="text-italic">Just what was she trying to get at...?</div>
 
 Right in front of me, I could make out the shapes of three man. Standing next to Misa-nee's frail limbs they began to lift up her body, aiming for a stretcher right beside her. 
 
@@ -169,7 +169,7 @@ Somewhere in the distance, I heard Akiho's desperate scream as I sprinted off to
 
 Whatever reason it was that caused 'your' life to sway. The undisclosed secret that woke 'your' desires, and that sudden spark that bore 'your' dreams. An event that thoroughly changed what 'your' life has been up until then, for the longest time.
 
-<div class="text-italic">I was finally about to find out.<br>
+<div class="text-italic-bold">I was finally about to find out.<br>
 ...and I would certainly fulfill your request, Misa-nee.</div>
 
 </div>

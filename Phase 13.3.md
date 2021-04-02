@@ -59,7 +59,7 @@ Ultimately giving in to the words she heard, and accepting the feelings she held
 
 <div class="story-divider"></div>
 
-<div class="text-italic-quoted">“Have you ever been blessed by any of it?”</div>
+<div class="text-italic-quoted text-nomargintop">“Have you ever been blessed by any of it?”</div>
 
 Certainly, I kept playing it cool. Casual enough that it felt like our usual chitchat, yet careful enough to not let her get a read on me. Eventually following the unfortunate patterns Kill-Ballad brought upon me...
 
@@ -165,7 +165,7 @@ Before the Robotics Club came into existence, before Mizuka-san and Mitchie beca
 
 <div class="story-image"><img src="images/EV_MIS006A.PNG"></div>
 
-<div class="text-italic-quoted">“...even the people I met.”</div>
+<div class="text-italic-quoted text-lessmargintop">“...even the people I met.”</div>
 
 Lost in thoughts, I murmured her strange words from just now...
 
@@ -197,9 +197,9 @@ Back then... one of those parts, whichever it was. It must have changed her. Irr
 
 That's why...
 
-<div class="text-italic">Some day.</div>
+<div class="text-italic-bold">Some day.</div>
 
-<div class="text-italic">Would I ever find it?<br>
+<div class="text-italic-bold">Would I ever find it?<br>
 Would I ever understand?</div>
 
 </div>

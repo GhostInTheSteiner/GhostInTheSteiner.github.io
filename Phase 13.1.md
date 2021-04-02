@@ -31,9 +31,9 @@
 
 <div class="story-image"><img src="images/EV_ZZZ017A.PNG"></div>
 
-The bustling atmosphere along with its vibrant laughter, neverending cheers and countless congratulations started to gradually fade out. The moment the hangar's giant roller shutters reached the ground, thousands of voices were reduced to a quiet mumble.
+<p class="text-lessmargintop">The bustling atmosphere along with its vibrant laughter, neverending cheers and countless congratulations started to gradually fade out. The moment the hangar's giant roller shutters reached the ground, thousands of voices were reduced to a quiet mumble.</p>
 
-<div class="text-italic">Pleasant. And comforting.</div>
+<div class="text-italic-bold">Pleasant. And comforting.</div>
 
 The stress and tension eased up, and my body was finally able to find some rest.
 
@@ -59,7 +59,7 @@ In this very moment... the person caught up in that girls' dreams the most. She 
 
 Kneeing in the corner of the room, in front of her covers that spread out all over the floor. And on top of them, 'her' slender and seemingly weary figure. The figure of a person that has finally returned home—after seven long years.
 
-<div class="text-italic">Senomiya Misaki.</div>
+<div class="text-italic-bold">Senomiya Misaki.</div>
 
 The girl whose dreams—unreachable as they may have been—finally became true. Right here, on this long forgotten airport. A far off place in the middle of nowhere, that all of a sudden became a spark full of hope.
 
@@ -85,7 +85,7 @@ Right after the battle, the two of us made a decision. Had we called an ambulanc
 
 For one last time, Akiho and I wanted to bring Misa-nee to the abandoned airport hangar. To the very place where the Robotics Club was born. If she were to wake up, we wanted her to remember... 
 
-*That* dream.
+<i>That</i> dream.
 
 A dream, that must have seemed forgotten and buried ever since the day she left.
 

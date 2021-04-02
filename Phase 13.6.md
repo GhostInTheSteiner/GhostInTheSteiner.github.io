@@ -31,7 +31,7 @@
 
 <div class="story-image"><img src="images/runway.png"></div>
 
-I stood at the empty airport apron. The hustle and bustle of a few days ago completely vanished, leaving behind a silent and peaceful atmosphere. Somewhere in the distance I could hear the leaves of trees rustling in the cold morning winds.
+<p class="text-lessmargintop">I stood at the empty airport apron. The hustle and bustle of a few days ago completely vanished, leaving behind a silent and peaceful atmosphere. Somewhere in the distance I could hear the leaves of trees rustling in the cold morning winds.</p>
 
 Right after leaving Frau's room, I decided to come here. To the very same place that should become my last opportunity to spend time Misa-nee. At least... for a while to come.
 

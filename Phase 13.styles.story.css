@@ -1,13 +1,14 @@
 :root {
     --story-max-width: 1000px;
     --story-padding: 24px;
-    --story-text-zoom: 1.2;
+    --story-text-zoom: 1.3;
     --story-text-size: 2.2em;
     --story-text-size-applied: calc(var(--story-text-size) * var(--story-text-zoom));
     --story-image-blur-radius: 20px;
     --story-image-spread-radius: 20px;
     --story-image-margin-left: -10px;
-    --story-image-margin-vertical: 30px;
+    --story-image-margin-top: 60px;
+    --story-image-margin-bottom: 0px;
     --story-image-zoom: 1.025;
     /* --story-image-zoom: 1; */
 }
@@ -68,8 +69,8 @@
     display: block;
     position: relative;
     margin-left: var(--story-image-margin-left);
-    margin-top: var(--story-image-margin-vertical);
-    margin-bottom: var(--story-image-margin-vertical);
+    margin-top: var(--story-image-margin-top);
+    padding-bottom: var(--story-image-margin-bottom);
     width: calc(100%*var(--story-image-zoom))
 }
 
@@ -92,8 +93,8 @@
 
 .story-divider {
     position: relative;
-    margin-top: 90px;
-    height: 50px;
+    margin-top: 70px;
+    height: 70px;
 }
 
 .story-divider:before {
@@ -103,4 +104,8 @@
     width: 100%;
     height: 4px;
     /* background-image: radial-gradient(circle, white, transparent); */
+}
+
+.story-divider-addedmargintop {
+    margin-top: 110px;
 }
