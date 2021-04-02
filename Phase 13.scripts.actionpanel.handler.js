@@ -11,8 +11,8 @@ var colors = [
 ]
 
 var fonts = [
-    "Roboto, sans-serif",
     "Noto Sans JP, sans-serif",
+    "Roboto, sans-serif",
     "Source Sans Pro, sans-serif",
     "Open Sans, sans-serif"
 ]
@@ -38,6 +38,8 @@ var currentFont =
     localStorage.getItem("currentFont") == null ?
     fonts.findIndex(_ => _ == $(".story-chapter-text").css("font-family").trim()) :
     localStorage.getItem("currentFont");
+
+currentFont = Math.max(currentFont, 0);
 
 updateLocalStorage();
 
