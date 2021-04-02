@@ -2,7 +2,7 @@
 
 :root {
     --topheader-text-size: 2.3em;
-    --bottomheader-text-size: 4.2em;
+    --bottomheader-text-size: 3.3em;
     --bottomheader-color: lightskyblue;
     /* --bottomheader-color: rgb(0, 173, 221); */
     --nextphase-text-size-top: 2.7em;
@@ -86,7 +86,8 @@ h5 {
 h4 {
     text-align: center;
     font-family: 'berenis_adf_proitalic', serif;
-    letter-spacing: 0.5px;
+    font-weight: 600;
+    letter-spacing: 1px;
     font-size: var(--bottomheader-text-size);
     color: var(--bottomheader-color);
     margin-top: 28px;
@@ -101,7 +102,7 @@ h3 {
     /* text-align: center; */
     font-style: italic;
     font-weight: normal;
-    margin-right: 17px;
+    margin-right: 0px;
     /* margin-bottom: 45px; */
     /* text-align: right; */
     color: #b0b0b0;
@@ -119,6 +120,7 @@ h2 {
     padding-left: 0px;
     padding-right: 0px;
     margin-top: 30px;
+    margin-left: -15px;
     text-transform: uppercase;
     /* color: black; */
     color: goldenrod;
