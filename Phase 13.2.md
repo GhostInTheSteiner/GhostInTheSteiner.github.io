@@ -175,3 +175,4 @@ Those eyes... were Akiho's eyes.
 
 <script src="Phase 13.scripts.glossary.js"></script>
 <script src="Phase 13.scripts.actionpanel.js"></script>
+<script src="Phase 13.scripts.zoom.js"></script>

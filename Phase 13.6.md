@@ -378,3 +378,4 @@ Japanese people reading English localizations... Just what world do we live in? 
 
 <script src="Phase 13.scripts.glossary.js"></script>
 <script src="Phase 13.scripts.actionpanel.js"></script>
+<script src="Phase 13.scripts.zoom.js"></script>

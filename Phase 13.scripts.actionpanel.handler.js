@@ -41,6 +41,9 @@ var currentFont =
 
 currentFont = Math.max(currentFont, 0);
 
+
+
+
 updateLocalStorage();
 
 function updateLocalStorage() {
@@ -49,8 +52,6 @@ function updateLocalStorage() {
     localStorage.setItem("currentWidth", currentWidth);
     localStorage.setItem("currentFont", currentFont);
 }
-
-
 
 function textsizeIncrease() {
     currentZoom = Math.min(2, currentZoom + 0.1);

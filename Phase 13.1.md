@@ -13,7 +13,10 @@
 <link rel="stylesheet" href="Phase 13.styles.headers.css">
 <link rel="stylesheet" href="Phase 13.styles.text.css">
 <link rel="stylesheet" href="Phase 13.styles.actionpanel.css">
+<link rel="stylesheet" href="Phase 13.styles.overlay.css">
 <link rel="stylesheet" href="Phase 13.styles.responsive.css">
+
+<div id="overlay" onclick="hideOverlay()"><div id="overlay-content"><p>To adjust the fontsize and other display settings click the circular button in the lower right corner.</p></div></div>
 
 <div id="actionpanel"></div>
 
@@ -146,3 +149,5 @@ A sharp word cut me off mid-sentence. As if it sliced straight through my throat
 
 <script src="Phase 13.scripts.glossary.js"></script>
 <script src="Phase 13.scripts.actionpanel.js"></script>
+<script src="Phase 13.scripts.zoom.js"></script>
+<script src="Phase 13.scripts.overlay.js"></script>

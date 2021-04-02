@@ -1,0 +1,1 @@
+$("body").css("zoom", 1 / window.devicePixelRatio)
