@@ -365,7 +365,7 @@ Japanese people reading English localizations... Just what world do we live in? 
 <div class="story-chapter-fadeout story-chapter-fade"></div>
 
 
-##### —FIN —
+##### — FIN —
 <div class="h5">「 Thanks for reading! 」</div>
 <div class="h5-white">「 Thanks for reading! 」</div>
 

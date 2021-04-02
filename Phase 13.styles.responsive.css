@@ -101,6 +101,10 @@
         margin-top: var(--margin-text-italic);
         margin-bottom: var(--margin-text-italic);
     }
+    .text-title {
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
     .h5 {
         font-size: var(--nextphase-text-size-bottom);
         -webkit-background-clip: text;

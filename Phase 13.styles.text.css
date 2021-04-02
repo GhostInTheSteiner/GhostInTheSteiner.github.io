@@ -78,6 +78,8 @@ p {
 .text-title {
     text-align: center;
     font-weight: bold;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
 
 .text-addmarginleft {
