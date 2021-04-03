@@ -82,9 +82,9 @@ The last part of my soul that's left.</div>
 
 <div class="story-divider story-divider-custommargin1"></div>
 
-<p class="text-lessmargintop">As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.</p>
-
 <div class="story-image"><img src="images/frau.png"></div>
+
+<p class="text-lessmargintop">As I entered her place, I was instantly hit by a wall of awful smell and a breeze of cold air. The only real source of light was a concavely shaped grid of monitors. Mounted on the opposite wall, they displayed all kinds of things... ranging from source code files and game maps to various chatrooms and image boards.</p>
 
 And right in front of that gate to a second world sat a figure, that didn't even bother to turn around. Intently staring at some kind of code displayed on the screen in front of her. Frau Koujiro—the genius programmer and maintainer of the massively successful online game Kill-Ballad. As I was gazing on her back, I heard how a single word left her mouth...
 
