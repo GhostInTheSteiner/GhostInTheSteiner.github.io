@@ -129,7 +129,7 @@ I recalled her wish of almost ten years ago. The events that gave birth to her s
 <div class="story-divider"></div>
 
 <div class="blog-title-top">Once more:</div>
-<div class="blog-title-bottom">— Mysterious report file appears all over the world —</div>
+<div class="blog-title-bottom">Mysterious report file appears all over the world</div>
 
 &nbsp;
 

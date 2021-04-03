@@ -114,6 +114,8 @@ Thinking about it, I remembered the omnipresent anticipation around those eclips
 
 Looking back down on her, I realized her eyes began to turn cloudy. It felt like her mind was somewhere else—far, far away from this place...
 
+<div class="story-image"><img src="images/IBG016Ae.PNG"></div>
+
 <div class="text-quoted">“...as I set them into stone. Was it faith that shaped my dreams...? Or were those dreams what shaped my faith...?”</div>
 
 What she uttered felt abstruse, almost philosophical in meaning. As if she was questioning determinism itself, she seemed in doubt about her own choices. That's why... deep inside of me. Somewhere between 'his' words and Misa-nee's actions. Something unsettling began to sprout.
