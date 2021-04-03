@@ -100,7 +100,7 @@ Something wet dropped onto her nose, leaving behind a moist trail as it slowly m
 
 That's right. Nine years ago, following that unforgettable incident...
 
-<div class="story-image"><img src="images/EV_MIS015A.png"></div>
+<div class="story-image"><img src="images/EV_MIS015A.PNG"></div>
 
 'You' were never leaving her side. Silently praying, and desperately hoping—just like Aki-chan is now. Still waiting for 'you' to finally wake up.
 

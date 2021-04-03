@@ -306,7 +306,7 @@ WTF!! I just checked Deluuodle Images... That girl—Airi was her name, right? S
 <br></br>
 
 **ENDER_6** <span class="twipo-handle-grey">*@EnderJohnson*</span>  
-<span class="twipo-handle-blue">@Balance_Boy</span> Alright, there you go... Uploaded them <a class="twipo-handle-blue" href="https://httpstat.us/503">here</a>.
+<span class="twipo-handle-blue">@Balance_Boy</span> Alright, there you go... Uploaded them <a class="twipo-handle-blue" target="_blank" href="https://httpstat.us/503">here</a>.
 <br></br>
 
 **BALANCE_BOY** <span class="twipo-handle-grey">*@Balance_Boy*</span>  
@@ -330,7 +330,7 @@ It's been a day since... Noone who can reupload? (╯︵╰,)
 <br></br>
 
 **MAGNETLOCK** <span class="twipo-handle-grey">*@Magneto342*</span>    
-Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... Uploaded the English version <a class="twipo-handle-blue" href="https://drive.google.com/drive/u/2/folders/1ceKLIuFrAa-oGaqfhDp1CgA-PQXgeWkt">here</a>
+Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... Uploaded the English version <a class="twipo-handle-blue" target="_blank" href="https://drive.google.com/drive/u/2/folders/1ceKLIuFrAa-oGaqfhDp1CgA-PQXgeWkt">here</a>
 <br></br>
 
 **PAPB** <span class="twipo-handle-grey">*@papb100*</span>  
