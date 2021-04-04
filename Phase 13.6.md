@@ -330,7 +330,7 @@ It's been a day since... Noone who can reupload? (╯︵╰,)
 <br></br>
 
 **MAGNETLOCK** <span class="twipo-handle-grey">*@Magneto342*</span>    
-Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... Uploaded the English version <a class="twipo-handle-blue" target="_blank" href="https://drive.google.com/drive/u/2/folders/1ceKLIuFrAa-oGaqfhDp1CgA-PQXgeWkt">here</a>
+Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... Uploaded the English version <a class="twipo-handle-blue" target="_blank" href="report/Kimijima Report No. 0.zip">here</a>
 <br></br>
 
 **PAPB** <span class="twipo-handle-grey">*@papb100*</span>  
