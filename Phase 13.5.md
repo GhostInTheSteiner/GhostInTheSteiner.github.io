@@ -78,7 +78,7 @@ In the end, would you be able to kill me? Such a thing would make me incredibly 
 <div class="text-italic">What little of myself I kept.<br>
 The part of my soul that's left.</div>
 
-<div class="text-italic">...it may have found a safe place to rest.</div>
+<div class="text-italic">...it may have found a place to rest.</div>
 
 <div class="story-divider story-divider-custommargin1"></div>
 
