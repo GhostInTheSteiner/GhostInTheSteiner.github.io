@@ -11,8 +11,8 @@ var colors = [
 ]
 
 var fonts = [
-    "Noto Sans JP, sans-serif",
     "Roboto, sans-serif",
+    "Noto Sans JP, sans-serif",
     "Source Sans Pro, sans-serif",
     "Open Sans, sans-serif",
     "Lato, sans-serif",
