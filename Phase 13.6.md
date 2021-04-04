@@ -211,7 +211,7 @@ Wait... WAIT! So that wasn't actually a troll? I've seen one of those reports ri
 <br></br>
 
 **ATSUMI_JAN** <span class="twipo-handle-grey">*@Atsumi_Jan*</span>  
-<span class="twipo-handle-blue">@EnderJohnson</span> U srs? Or are you just one of KUROKANES alts lol.
+<span class="twipo-handle-blue">@EnderJohnson</span> U srs? Or are you just one of <span class="twipo-handle-blue">\#KUROKANE</span>'s alts lol.
 <br></br>
 
 **ENDER_6** <span class="twipo-handle-grey">*@EnderJohnson*</span>  
