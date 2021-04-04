@@ -149,7 +149,7 @@ However, let me not make this another prime example of sensationalist news repor
 
 Don't let yourself be fooled! What's your opinion on those unexpected events? Let's get this straight and discuss it in the comment section! 
 
-<span class="twipo-handle-blue">#KUROKANENEWS</span>
+<span class="twipo-handle-blue">#KUROKANE</span>
 
 
 <div class="story-divider"></div>
@@ -157,7 +157,7 @@ Don't let yourself be fooled! What's your opinion on those unexpected events? Le
 <div class="twipo-thread">
 
 **ATSUMI_JAN** <span class="twipo-handle-grey">*@Atsumi_Jan*</span>  
-<span class="twipo-handle-blue">\#KUROKANENEWS</span> is at it again...
+<span class="twipo-handle-blue">\#KUROKANE</span> is at it again...
 <br></br>
 
 **BALANCE_BOY** <span class="twipo-handle-grey">*@Balance_Boy*</span>  
@@ -179,7 +179,7 @@ Good job at doing so lmao. That article is already the #1 topic all over @channe
 <br></br>
 
 **ATSUMI_JAN** <span class="twipo-handle-grey">*@Atsumi_Jan*</span>  
-<span class="twipo-handle-blue">@Balance_Boy</span> Who knows... It's just KUROKANE reporting, so it could just as well be fake in and of itself lol
+<span class="twipo-handle-blue">@Balance_Boy</span> Who knows... It's just <span class="twipo-handle-blue">\#KUROKANE</span> reporting, so it could just as well be fake in and of itself lol
 <br></br>
 
 **DJMAZ** <span class="twipo-handle-grey">*@djmaz11*</span>  
