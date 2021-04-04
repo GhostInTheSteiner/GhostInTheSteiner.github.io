@@ -282,7 +282,7 @@ Finished the first section. I swear I've seen that Airi girl once before. Must h
 <br></br>
 
 **DJMAZ** <span class="twipo-handle-grey">*@djmaz11*</span>  
-Received a message from a friend abroad (<span class="twipo-handle-blue">@MAGNETLOCK</span>). He's spending his gap year in the UK. Apparently he had the reports appear in his city too... And they were in English!
+Received a message from a friend abroad (<span class="twipo-handle-blue">@MAGNETLOCK</span>). He's spending his gap year in the UK. Apparently he had the reports appear in his city too... And they were translated!
 <br></br>
 
 **BALANCE_BOY** <span class="twipo-handle-grey">*@Balance_Boy*</span>  
@@ -334,7 +334,7 @@ Am that UK guy from <span class="twipo-handle-blue">@djmaz11</span>'s tweep... U
 <br></br>
 
 **PAPB** <span class="twipo-handle-grey">*@papb100*</span>  
-<span class="twipo-handle-blue">@MAGNETLOCK</span> My Englisch sucks, but thx!
+<span class="twipo-handle-blue">@MAGNETLOCK</span> My English sucks, but thx!
 <br></br>
 
 **CCNONOBESTGIRL** <span class="twipo-handle-grey">*@NonoKurusu*</span>  
