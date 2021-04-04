@@ -11,14 +11,14 @@ var colors = [
 ]
 
 var fonts = [
-    "Roboto, sans-serif",
     "Noto Sans JP, sans-serif",
+    "Roboto, sans-serif",
+    "AO3, sans-serif",
     "Source Sans Pro, sans-serif",
     "Open Sans, sans-serif",
     "Lato, sans-serif",
     "PT Sans, sans-serif",
     "Karla, sans-serif",
-    "AO3, sans-serif",
 ]
 
 var root = $(":root");
