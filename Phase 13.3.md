@@ -5,6 +5,9 @@
 <link rel="stylesheet" href="Phase 13.fonts.opensans.css">
 <link rel="stylesheet" href="Phase 13.fonts.sourcesanspro.css">
 <link rel="stylesheet" href="Phase 13.fonts.notosans.css">
+<link rel="stylesheet" href="Phase 13.fonts.lato.css">
+<link rel="stylesheet" href="Phase 13.fonts.ptsans.css">
+<link rel="stylesheet" href="Phase 13.fonts.karla.css">
 <link rel="stylesheet" href="Phase 13.fonts.berenis.css">
 <link rel="stylesheet" href="Phase 13.fonts.futura.css">
 <link rel="stylesheet" href="Phase 13.styles.story.general.css">
@@ -13,6 +16,7 @@
 <link rel="stylesheet" href="Phase 13.styles.headers.css">
 <link rel="stylesheet" href="Phase 13.styles.text.css">
 <link rel="stylesheet" href="Phase 13.styles.actionpanel.css">
+<link rel="stylesheet" href="Phase 13.styles.overlay.css">
 <link rel="stylesheet" href="Phase 13.styles.responsive.css">
 
 <div id="actionpanel"></div>
