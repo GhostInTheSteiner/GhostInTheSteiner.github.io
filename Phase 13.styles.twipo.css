@@ -1,15 +1,17 @@
 .twipo-handle-grey {
-    color:#ada08e
+    color: #ada08e
 }
 
 .twipo-handle-blue {
-    color:#00acee
+    color: #00b7ff
 }
 
-.twipo-thread > a:link, .twipo-thread > a:visited {
-	color: #3794FF;
-  }
-  
-.twipo-thread > a:hover, .twipo-thread > a:active {
-	color: #3794FF;
-  }
+.twipo-thread>a:link,
+.twipo-thread>a:visited {
+    color: #3794FF;
+}
+
+.twipo-thread>a:hover,
+.twipo-thread>a:active {
+    color: #3794FF;
+}

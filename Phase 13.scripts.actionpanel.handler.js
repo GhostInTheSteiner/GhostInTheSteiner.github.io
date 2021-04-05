@@ -101,6 +101,7 @@ function brightnessRefresh(currentColor) {
         $("h5").css("color", "rgb(0, 114, 145)");
         $("h3").css("color", "gray");
         root.css("--bottomheader-color", "#0070C0da");
+        $(".twipo-handle-blue").css("color", "#0087bd");
 
 
     } else {
@@ -108,6 +109,7 @@ function brightnessRefresh(currentColor) {
         $("h5").css("color", "goldenrod");
         $("h3").css("color", "#b0b0b0");
         root.css("--bottomheader-color", "lightskyblue");
+        $(".twipo-handle-blue").css("color", "#00acee");
 
     }
 
