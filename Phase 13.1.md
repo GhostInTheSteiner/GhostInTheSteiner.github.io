@@ -65,7 +65,7 @@ No matter how ambitious, no matter how foolish. 'She' continued to pursue her go
 
 In this very moment... the person caught up in that girls' dreams the most. She was right here.
 
-Kneeing in the corner of the room, in front of her covers that spread out all over the floor. And on top of them, 'her' slender and seemingly weary figure. The figure of a person that has finally returned home—after seven long years.
+Kneeing in the corner of the room, in front of her covers that spread out all over the floor. And on top of them: 'Her' slender and seemingly weary figure. The figure of a person that has finally returned home—after seven long years.
 
 <div class="text-italic-bold">Senomiya Misaki.</div>
 

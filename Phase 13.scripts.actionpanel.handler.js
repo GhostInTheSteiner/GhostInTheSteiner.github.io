@@ -11,11 +11,12 @@ var colors = [
 ]
 
 var fonts = [
-    "Verdena, sans-serif",
-    "Noto Sans JP, sans-serif",
-    "AO3, sans-serif",
-    "Roboto Slab, sans-serif",
+    "Sarabun, sans-serif",
     "Roboto, sans-serif",
+    "Roboto Slab, sans-serif",
+    "AO3, sans-serif",
+    "Noto Sans JP, sans-serif",
+    "Verdena, sans-serif",
     "Source Sans Pro, sans-serif",
     "Open Sans, sans-serif",
     "Segoe UI, sans-serif",
