@@ -120,7 +120,7 @@ I gulped. So we were right, after all...
 
 <div class="text-quoted">“I've been told to come out myself, too. In person.”</div>
 
-After all, she was a direct relative of Misa-nee. Of all people out there, the two of us were were probably most relevant for their investigations. I had absolutely no doubt that I would be interviewed soon enough as well.
+After all, she was a direct relative of Misa-nee. Of all people out there, the two of us were probably most relevant for their investigations. I had absolutely no doubt that I would be interviewed soon enough as well.
 
 Hesitantly, Akiho loosened the fingers surrounding Misa-nee's hand.
 
