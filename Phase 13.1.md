@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="Phase 13.styles.overlay.css">
 <link rel="stylesheet" href="Phase 13.styles.responsive.css">
 
-<div id="overlay" onclick="hideOverlay()"><div id="overlay-content"><p>To adjust the fontsize and other display settings click the circular button in the lower right corner. Do <b>not</b> use Google Chrome's "Simplified View". Also, please disable any dark mode extensions such as Dark Reader on this domain.<br><br>Thanks!</p></div></div>
+<div id="overlay" onclick="hideOverlay()"><div id="overlay-content"><p>You can adjust the fontsize and other display settings using the circular button in the lower right corner. Make sure to choose a font that's comfortable to read on the display you're using – the default one isn't always perfect. Also, please disable any dark mode extensions such as Dark Reader on this domain. All chapters already integrate both: A dark and a light theme.</div></div>
 
 <div id="actionpanel"></div>
 
